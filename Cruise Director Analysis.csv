@@ -1,0 +1,1310 @@
+﻿ID,Port of Embarkation,Economic Class,Sex,Age,No of Siblings or Spouses on Board,No of Parents or Children on Board,Passenger Fare,ChildFare?,PurchasedPackage
+3,Ft. Lauderdale,Upper,Male,32.5,0.0,0.0,1480.5,N,No
+11,Miami,Lower,Male,25.0,0.0,0.0,66.5,N,Yes
+26,Miami,Lower,Male,27.0,0.0,0.0,55.0,N,No
+39,Miami,Upper,Female,33.0,0.0,0.0,605.5,N,Yes
+56,Miami,Lower,Male,37.0,2.0,0.0,55.5,N,No
+64,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+67,Miami,Lower,Female,2.0,0.0,1.0,73.2,Y,No
+76,Miami,Lower,Male,25.0,0.0,0.0,53.6,N,Yes
+77,Miami,Lower,Male,22.0,0.0,0.0,63.0,N,No
+87,Miami,Lower,Male,22.0,0.0,0.0,56.4,N,No
+101,Jacksonville,Lower,Male,40.0,1.0,1.0,108.5,N,No
+102,Miami,Upper,Female,35.0,0.0,0.0,949.4,N,Yes
+103,Miami,Middle,Male,23.0,2.0,1.0,80.5,N,No
+107,Miami,Upper,Male,45.5,0.0,0.0,199.5,N,No
+121,Ft. Lauderdale,Lower,Male,39.0,0.0,2.0,50.6,N,No
+127,Miami,Middle,Female,,0.0,0.0,231.0,N,Yes
+147,Miami,Lower,Male,33.0,0.0,0.0,60.6,N,No
+150,Miami,Lower,Male,24.0,0.0,0.0,49.4,N,No
+151,Ft. Lauderdale,Lower,Female,1.0,0.0,2.0,110.2,Y,Yes
+152,Ft. Lauderdale,Upper,Male,36.0,0.0,1.0,3586.3,N,Yes
+153,Jacksonville,Upper,Male,44.0,2.0,0.0,630.0,N,No
+160,Miami,Lower,Female,26.0,0.0,0.0,55.5,N,Yes
+162,Miami,Middle,Male,2.0,1.0,1.0,182.0,Y,Yes
+169,Ft. Lauderdale,Upper,Male,36.0,0.0,0.0,280.9,N,No
+172,Miami,Lower,Female,1.0,1.0,1.0,85.3,Y,No
+173,Miami,Middle,Male,34.0,1.0,0.0,182.0,N,No
+189,Ft. Lauderdale,Upper,Female,,1.0,0.0,623.7,N,Yes
+199,Miami,Lower,Male,22.0,0.0,0.0,55.3,N,No
+211,Miami,Lower,Male,24.0,0.0,0.0,50.0,N,Yes
+213,Ft. Lauderdale,Lower,Male,,1.0,1.0,106.7,N,Yes
+224,Jacksonville,Lower,Male,,0.0,0.0,169.1,N,No
+225,Miami,Lower,Male,7.0,4.0,1.0,277.8,Y,No
+228,Miami,Lower,Female,19.0,1.0,0.0,112.7,N,No
+230,Miami,Lower,Male,,0.0,0.0,105.7,N,No
+235,Ft. Lauderdale,Lower,Male,22.0,0.0,0.0,50.6,N,No
+236,Miami,Upper,Male,50.0,0.0,0.0,182.0,N,No
+260,Miami,Middle,Male,3.0,1.0,1.0,131.3,Y,Yes
+276,Miami,Lower,Female,30.0,1.0,0.0,108.9,N,No
+277,Miami,Lower,Male,25.0,0.0,0.0,54.6,N,Yes
+279,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+280,Miami,Middle,Male,28.0,0.0,0.0,182.0,N,No
+289,Ft. Lauderdale,Upper,Female,53.0,0.0,0.0,192.1,N,Yes
+296,Ft. Lauderdale,Lower,Female,18.0,0.0,0.0,50.6,N,Yes
+297,Miami,Lower,Female,26.0,0.0,0.0,55.0,N,Yes
+299,Ft. Lauderdale,Upper,Male,25.0,1.0,0.0,388.1,N,Yes
+301,Miami,Middle,Male,70.0,0.0,0.0,73.5,N,No
+302,Miami,Lower,Male,23.0,0.0,0.0,54.6,N,Yes
+309,Ft. Lauderdale,Upper,Male,,0.0,0.0,1592.7,N,No
+330,Miami,Lower,Male,36.0,1.0,1.0,169.1,N,No
+342,Ft. Lauderdale,Lower,Male,28.5,0.0,0.0,50.6,N,No
+351,Miami,Lower,Female,22.0,0.0,0.0,62.7,N,Yes
+354,Jacksonville,Lower,Male,,1.0,0.0,54.3,N,No
+360,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+370,Miami,Upper,Female,31.0,0.0,2.0,1154.1,N,Yes
+372,Miami,Upper,Female,48.0,0.0,0.0,181.5,N,Yes
+375,Ft. Lauderdale,Upper,Female,33.0,0.0,0.0,194.0,N,Yes
+380,Miami,Upper,Female,45.0,1.0,1.0,1154.1,N,Yes
+386,Jacksonville,Middle,Female,,0.0,0.0,86.5,N,Yes
+389,Miami,Lower,Male,28.0,0.0,0.0,55.3,N,No
+392,Miami,Upper,Male,,0.0,0.0,213.5,N,Yes
+398,Miami,Lower,Male,17.0,0.0,0.0,49.9,N,No
+420,Miami,Middle,Female,36.0,0.0,3.0,273.0,N,Yes
+433,Miami,Upper,Male,70.0,1.0,1.0,497.0,N,No
+443,Miami,Lower,Male,22.0,0.0,0.0,65.5,N,No
+449,Miami,Lower,Female,,1.0,0.0,112.7,N,Yes
+451,Miami,Lower,Female,,0.0,0.0,56.4,N,No
+474,Miami,Middle,Female,24.0,2.0,1.0,189.0,N,Yes
+484,Ft. Lauderdale,Lower,Female,14.5,1.0,0.0,101.2,Y,No
+487,Miami,Lower,Male,30.0,0.0,0.0,66.5,N,Yes
+489,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+495,Miami,Lower,Female,22.0,1.0,0.0,97.3,N,Yes
+496,Miami,Lower,Female,9.0,2.0,2.0,240.6,Y,No
+503,Miami,Upper,Female,18.0,0.0,2.0,557.6,N,Yes
+527,Miami,Lower,Male,38.0,0.0,0.0,60.6,N,No
+530,Miami,Upper,Male,,0.0,0.0,1552.5,N,No
+549,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+553,Miami,Middle,Female,4.0,2.0,1.0,273.0,Y,Yes
+575,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,No
+578,Ft. Lauderdale,Upper,Male,64.0,1.0,0.0,526.8,N,No
+583,Miami,Lower,Female,45.0,0.0,0.0,54.3,N,No
+591,Miami,Middle,Male,29.0,1.0,0.0,182.0,N,No
+592,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,Yes
+593,Miami,Middle,Male,50.0,0.0,0.0,91.0,N,No
+594,Miami,Lower,Female,6.0,4.0,2.0,218.9,Y,No
+596,Miami,Lower,Male,36.0,0.0,0.0,50.8,N,No
+599,Miami,Upper,Male,47.0,0.0,0.0,269.5,N,No
+604,Ft. Lauderdale,Lower,Female,15.0,1.0,0.0,101.2,Y,Yes
+606,Ft. Lauderdale,Lower,Female,15.0,0.0,0.0,50.6,Y,Yes
+607,Miami,Upper,Male,29.0,0.0,0.0,210.0,N,No
+615,Ft. Lauderdale,Lower,Male,,1.0,1.0,106.7,N,Yes
+620,Miami,Middle,Female,8.0,0.0,2.0,183.8,Y,Yes
+625,Miami,Middle,Female,40.0,1.0,1.0,273.0,N,Yes
+644,Ft. Lauderdale,Upper,Female,48.0,1.0,1.0,554.4,N,Yes
+647,Ft. Lauderdale,Upper,Female,56.0,0.0,1.0,582.1,N,Yes
+649,Miami,Middle,Female,40.0,0.0,0.0,110.3,N,Yes
+658,Miami,Upper,Male,31.0,1.0,0.0,364.0,N,No
+668,Miami,Middle,Male,36.0,0.0,0.0,91.0,N,No
+669,Miami,Middle,Female,55.0,0.0,0.0,112.0,N,Yes
+671,Miami,Upper,Female,45.0,1.0,0.0,367.9,N,Yes
+675,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,Yes
+679,Miami,Lower,Male,27.0,0.0,0.0,60.6,N,No
+680,Miami,Lower,Male,32.0,0.0,0.0,55.5,N,Yes
+694,Ft. Lauderdale,Middle,Male,,0.0,0.0,105.4,N,No
+703,Ft. Lauderdale,Upper,Female,30.0,0.0,0.0,217.0,N,Yes
+704,Miami,Lower,Male,24.0,0.0,0.0,65.3,N,No
+715,Ft. Lauderdale,Lower,Male,25.0,0.0,0.0,50.6,N,No
+716,Miami,Lower,Male,,0.0,0.0,395.5,N,Yes
+726,Ft. Lauderdale,Upper,Female,52.0,1.0,0.0,547.9,N,Yes
+735,Miami,Lower,Male,22.0,0.0,0.0,55.3,N,No
+784,Miami,Upper,Male,19.0,3.0,2.0,1841.0,N,No
+795,Miami,Middle,Female,28.0,0.0,0.0,88.6,N,Yes
+798,Miami,Middle,Male,18.5,0.0,0.0,91.0,N,No
+803,Ft. Lauderdale,Upper,Female,48.0,1.0,3.0,1836.6,N,Yes
+806,Ft. Lauderdale,Lower,Female,29.0,0.0,2.0,106.7,N,Yes
+814,Miami,Upper,Male,4.0,0.0,2.0,573.0,Y,Yes
+816,Miami,Upper,Male,57.0,1.0,1.0,1154.1,N,No
+831,Miami,Upper,Male,30.0,1.0,2.0,1060.9,N,No
+834,Miami,Upper,Female,63.0,1.0,0.0,545.7,N,Yes
+837,Miami,Lower,Male,20.0,0.0,0.0,66.5,N,No
+840,Ft. Lauderdale,Upper,Male,25.0,0.0,0.0,182.0,N,No
+843,Miami,Lower,Female,22.0,2.0,0.0,60.6,N,No
+848,Ft. Lauderdale,Upper,Male,6.0,0.0,2.0,941.5,Y,Yes
+849,Miami,Lower,Male,21.0,0.0,0.0,56.4,N,No
+855,Ft. Lauderdale,Lower,Female,5.0,2.0,1.0,134.8,Y,Yes
+857,Miami,Middle,Male,38.0,1.0,0.0,147.0,N,No
+860,Ft. Lauderdale,Middle,Male,32.5,1.0,0.0,210.5,N,No
+861,Miami,Upper,Female,30.0,0.0,0.0,654.5,N,Yes
+863,Jacksonville,Lower,Female,21.0,0.0,0.0,54.3,N,No
+877,Miami,Lower,Male,16.0,0.0,0.0,54.4,Y,No
+895,Miami,Middle,Male,8.0,1.0,1.0,257.3,Y,Yes
+896,Miami,Lower,Female,36.0,0.0,2.0,85.3,N,No
+897,Ft. Lauderdale,Upper,Male,22.0,0.0,0.0,949.4,N,No
+914,Jacksonville,Lower,Male,,1.0,0.0,169.1,N,No
+920,Miami,Upper,Male,,0.0,0.0,185.9,N,Yes
+929,Ft. Lauderdale,Upper,Male,55.0,1.0,0.0,415.8,N,No
+938,Ft. Lauderdale,Middle,Male,,0.0,0.0,105.3,N,No
+950,Miami,Upper,Female,63.0,1.0,0.0,1552.5,N,No
+957,Ft. Lauderdale,Upper,Female,44.0,0.0,1.0,405.9,N,Yes
+969,Miami,Lower,Male,45.0,0.0,0.0,48.8,N,No
+975,Miami,Upper,Male,46.0,1.0,0.0,428.2,N,No
+981,Miami,Lower,Male,0.8,1.0,1.0,96.4,Y,No
+986,Ft. Lauderdale,Upper,Female,36.0,0.0,0.0,221.8,N,No
+991,Miami,Lower,Male,22.0,1.0,0.0,50.8,N,No
+992,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+1005,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+1008,Miami,Middle,Male,22.0,0.0,0.0,73.5,N,Yes
+1015,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+1018,Miami,Upper,Male,36.0,0.0,0.0,184.0,N,Yes
+1030,Ft. Lauderdale,Upper,Male,45.0,0.0,0.0,207.9,N,Yes
+1033,Miami,Lower,Male,17.0,2.0,0.0,56.4,N,No
+1035,Miami,Lower,Male,17.0,0.0,0.0,60.6,N,No
+1037,Miami,Middle,Male,0.7,1.0,1.0,101.5,Y,Yes
+1038,Ft. Lauderdale,Middle,Female,17.0,0.0,0.0,84.0,N,Yes
+1039,Jacksonville,Lower,Female,16.0,0.0,0.0,54.3,Y,Yes
+1046,Miami,Middle,Male,48.0,0.0,0.0,91.0,N,No
+1060,Ft. Lauderdale,Lower,Female,38.0,0.0,0.0,50.6,N,Yes
+1061,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,Yes
+1071,Ft. Lauderdale,Lower,Female,14.0,1.0,0.0,78.7,Y,Yes
+1079,Miami,Upper,Male,,0.0,0.0,350.0,N,No
+1080,Ft. Lauderdale,Lower,Male,,2.0,0.0,151.8,N,No
+1081,Miami,Middle,Male,24.0,0.0,0.0,73.5,N,Yes
+1099,Miami,Upper,Male,42.0,0.0,0.0,185.9,N,No
+1101,Miami,Middle,Male,28.0,0.0,0.0,94.5,N,No
+1104,Miami,Middle,Female,8.0,1.0,1.0,182.0,Y,Yes
+1110,Miami,Upper,Male,24.0,1.0,0.0,420.0,N,No
+1116,Miami,Middle,Male,28.0,0.0,1.0,231.0,N,No
+1119,Miami,Lower,Female,20.0,1.0,0.0,68.8,N,No
+1122,Miami,Lower,Male,59.0,0.0,0.0,50.8,N,No
+1133,Miami,Upper,Female,59.0,2.0,0.0,360.4,N,Yes
+1138,Miami,Lower,Female,29.0,0.0,4.0,147.5,N,No
+1171,Miami,Middle,Female,57.0,0.0,0.0,73.5,N,No
+1173,Miami,Lower,Female,,3.0,1.0,178.3,N,No
+1181,Ft. Lauderdale,Upper,Female,58.0,0.0,1.0,3586.3,N,Yes
+1186,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,Yes
+1189,Ft. Lauderdale,Middle,Male,30.0,0.0,0.0,89.2,N,Yes
+1191,Miami,Lower,Male,42.0,0.0,0.0,53.6,N,No
+1193,Miami,Middle,Female,20.0,0.0,0.0,257.3,N,Yes
+1200,Miami,Upper,Male,42.0,1.0,0.0,367.9,N,Yes
+1204,Miami,Middle,Male,30.0,0.0,0.0,91.0,N,No
+1206,Miami,Middle,Male,27.0,0.0,0.0,91.0,N,No
+1209,Jacksonville,Lower,Female,37.0,0.0,0.0,54.3,N,No
+1235,Miami,Upper,Male,29.0,1.0,0.0,466.2,N,No
+1237,Ft. Lauderdale,Middle,Female,23.0,0.0,0.0,96.5,N,Yes
+1244,Miami,Lower,Female,2.0,1.0,1.0,141.5,Y,No
+1248,Ft. Lauderdale,Upper,Female,23.0,1.0,0.0,792.9,N,Yes
+1258,Miami,Lower,Female,0.2,1.0,2.0,144.0,Y,Yes
+1263,Miami,Lower,Female,63.0,0.0,0.0,67.1,N,Yes
+1278,Miami,Middle,Male,36.0,1.0,2.0,194.3,N,No
+1283,Miami,Middle,Female,18.0,1.0,1.0,91.0,N,No
+1328,Miami,Lower,Male,33.0,0.0,0.0,55.3,N,No
+1340,Ft. Lauderdale,Lower,Female,,0.0,2.0,106.7,N,Yes
+1347,Miami,Middle,Male,44.0,0.0,0.0,91.0,N,No
+1352,Ft. Lauderdale,Lower,Male,,2.0,0.0,151.8,N,No
+1359,Miami,Middle,Female,34.0,0.0,0.0,73.5,N,Yes
+1372,Miami,Lower,Male,42.0,0.0,0.0,60.6,N,No
+1375,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+1380,Miami,Lower,Male,20.0,1.0,0.0,55.5,N,Yes
+1412,Miami,Middle,Male,17.0,0.0,0.0,514.5,N,No
+1436,Ft. Lauderdale,Upper,Male,50.0,1.0,1.0,1480.5,N,No
+1449,Jacksonville,Lower,Male,,0.0,0.0,54.2,N,No
+1477,Miami,Upper,Female,17.0,1.0,0.0,399.0,N,Yes
+1485,Ft. Lauderdale,Upper,Male,17.0,0.0,2.0,776.2,N,Yes
+1491,Ft. Lauderdale,Lower,Female,24.0,0.0,3.0,134.8,N,Yes
+1493,Ft. Lauderdale,Lower,Male,33.0,0.0,0.0,55.3,N,No
+1504,Miami,Middle,Female,33.0,0.0,2.0,182.0,N,Yes
+1517,Miami,Lower,Female,47.0,1.0,0.0,49.0,N,Yes
+1528,Miami,Middle,Female,21.0,0.0,1.0,147.0,N,Yes
+1561,Miami,Lower,Male,,1.0,0.0,139.8,N,No
+1571,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+1579,Miami,Lower,Male,36.5,1.0,0.0,121.8,N,Yes
+1586,Miami,Lower,Male,48.0,0.0,0.0,55.0,N,No
+1590,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+1599,Miami,Lower,Male,26.0,0.0,0.0,54.4,N,No
+1600,Ft. Lauderdale,Lower,Male,,0.0,0.0,55.3,N,No
+1609,Miami,Lower,Male,41.0,0.0,0.0,49.9,N,No
+1619,Ft. Lauderdale,Upper,Female,41.0,0.0,0.0,941.5,N,Yes
+1622,Miami,Lower,Female,25.0,1.0,0.0,55.5,N,No
+1625,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+1630,Miami,Lower,Male,27.0,0.0,0.0,60.6,N,Yes
+1671,Miami,Middle,Female,19.0,0.0,0.0,182.0,N,Yes
+1678,Jacksonville,Lower,Female,,1.0,0.0,169.1,N,Yes
+1682,Ft. Lauderdale,Lower,Female,13.0,0.0,0.0,50.6,Y,Yes
+1701,Miami,Lower,Male,24.0,0.0,0.0,55.0,N,No
+1702,Ft. Lauderdale,Upper,Male,40.0,0.0,0.0,194.0,N,No
+1708,Ft. Lauderdale,Upper,Male,57.0,1.0,0.0,1025.6,N,No
+1710,Ft. Lauderdale,Lower,Female,,0.0,2.0,106.7,N,No
+1731,Miami,Upper,Female,53.0,2.0,0.0,360.4,N,Yes
+1739,Miami,Lower,Male,,8.0,2.0,486.9,N,No
+1740,Miami,Middle,Female,24.0,2.0,3.0,131.3,N,Yes
+1746,Miami,Lower,Male,,1.0,0.0,112.7,N,No
+1747,Miami,Lower,Female,14.0,0.0,0.0,55.0,Y,No
+1758,Miami,Lower,Male,23.0,0.0,0.0,55.0,N,No
+1761,Miami,Lower,Male,40.0,1.0,5.0,219.7,N,No
+1769,Miami,Middle,Male,18.0,0.0,0.0,80.5,N,No
+1770,Miami,Upper,Male,55.0,0.0,0.0,350.0,N,No
+1788,Miami,Lower,Male,33.0,1.0,1.0,143.7,N,No
+1793,Miami,Lower,Male,26.0,0.0,0.0,54.4,N,Yes
+1809,Miami,Lower,Male,18.0,0.0,0.0,60.6,N,No
+1810,Jacksonville,Middle,Male,62.0,0.0,0.0,67.8,N,No
+1821,Miami,Middle,Female,24.0,1.0,2.0,455.0,N,Yes
+1833,Ft. Lauderdale,Lower,Male,,0.0,0.0,101.2,N,No
+1835,Jacksonville,Upper,Female,37.0,1.0,0.0,630.0,N,Yes
+1841,Miami,Lower,Female,21.0,1.0,0.0,68.8,N,No
+1844,Ft. Lauderdale,Middle,Female,30.0,1.0,0.0,97.0,N,Yes
+1858,Miami,Lower,Male,19.0,0.0,0.0,56.4,N,No
+1862,Miami,Lower,Male,41.0,2.0,0.0,98.8,N,No
+1875,Jacksonville,Lower,Male,19.0,0.0,0.0,47.3,N,No
+1882,Miami,Upper,Female,26.0,0.0,0.0,552.0,N,Yes
+1896,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+1899,Miami,Lower,Male,36.0,0.0,0.0,0.0,N,No
+1902,Ft. Lauderdale,Lower,Male,18.0,1.0,0.0,101.2,N,No
+1907,Miami,Lower,Male,21.0,0.0,0.0,54.6,N,Yes
+1924,Ft. Lauderdale,Upper,Female,31.0,0.0,0.0,941.5,N,Yes
+1927,Miami,Upper,Male,,0.0,0.0,185.9,N,No
+1940,Miami,Upper,Female,16.0,0.0,0.0,605.5,Y,Yes
+1945,Ft. Lauderdale,Middle,Male,36.0,0.0,0.0,90.1,N,No
+1946,Miami,Upper,Female,28.0,3.0,2.0,1841.0,N,Yes
+1954,Miami,Lower,Male,9.0,0.0,2.0,143.7,Y,Yes
+1964,Ft. Lauderdale,Upper,Male,35.0,0.0,0.0,185.9,N,Yes
+1969,Miami,Lower,Female,23.0,0.0,0.0,55.0,N,Yes
+1986,Miami,Upper,Female,58.0,0.0,1.0,1074.2,N,Yes
+1990,Miami,Lower,Male,,0.0,0.0,50.8,N,No
+1995,Miami,Middle,Female,42.0,0.0,0.0,91.0,N,Yes
+2012,Miami,Upper,Female,35.0,1.0,0.0,364.0,N,Yes
+2014,Miami,Middle,Male,36.5,0.0,2.0,182.0,N,No
+2016,Miami,Upper,Male,53.0,1.0,1.0,573.0,N,Yes
+2017,Miami,Middle,Male,16.0,0.0,0.0,182.0,Y,No
+2028,Miami,Lower,Female,20.0,0.0,0.0,55.0,N,No
+2029,Ft. Lauderdale,Upper,Female,50.0,0.0,1.0,1732.6,N,Yes
+2044,Ft. Lauderdale,Upper,Female,31.0,1.0,0.0,792.9,N,Yes
+2051,Miami,Lower,Male,25.0,1.0,0.0,54.4,N,No
+2067,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+2086,Miami,Upper,Male,28.0,0.0,0.0,185.9,N,Yes
+2102,Jacksonville,Middle,Female,30.0,0.0,0.0,86.5,N,Yes
+2104,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,No
+2105,Miami,Middle,Male,35.0,0.0,0.0,73.5,N,No
+2112,Miami,Lower,Male,14.5,8.0,2.0,486.9,Y,No
+2113,Miami,Lower,Male,28.0,0.0,0.0,157.7,N,No
+2120,Miami,Middle,Male,42.0,0.0,0.0,91.0,N,Yes
+2128,Ft. Lauderdale,Lower,Male,21.0,0.0,0.0,50.6,N,No
+2130,Miami,Lower,Male,17.0,0.0,0.0,60.6,N,No
+2135,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,No
+2140,Ft. Lauderdale,Middle,Male,27.0,0.0,0.0,105.2,N,No
+2147,Miami,Middle,Male,39.0,0.0,0.0,182.0,N,No
+2159,Ft. Lauderdale,Middle,Female,24.0,1.0,0.0,194.0,N,Yes
+2169,Miami,Upper,Male,37.0,1.0,0.0,371.7,N,No
+2172,Miami,Lower,Female,25.0,0.0,0.0,54.4,N,No
+2186,Miami,Middle,Male,62.0,0.0,0.0,73.5,N,Yes
+2195,Miami,Upper,Male,36.0,1.0,0.0,552.0,N,No
+2198,Jacksonville,Lower,Female,18.5,0.0,0.0,51.0,N,No
+2203,Miami,Lower,Male,25.0,0.0,0.0,50.8,N,No
+2204,Miami,Upper,Female,35.0,1.0,0.0,371.7,N,Yes
+2209,Miami,Lower,Female,,8.0,2.0,486.9,N,No
+2210,Miami,Upper,Female,51.0,1.0,0.0,545.7,N,Yes
+2224,Miami,Middle,Female,30.0,0.0,0.0,91.0,N,Yes
+2231,Miami,Upper,Female,25.0,1.0,2.0,1060.9,N,No
+2233,Miami,Lower,Male,25.0,1.0,0.0,124.6,N,No
+2235,Miami,Upper,Female,15.0,0.0,1.0,1479.4,Y,Yes
+2244,Miami,Middle,Male,31.0,0.0,0.0,91.0,N,Yes
+2246,Ft. Lauderdale,Upper,Female,22.0,0.0,2.0,346.5,N,Yes
+2254,Miami,Middle,Male,40.0,0.0,0.0,112.0,N,No
+2262,Ft. Lauderdale,Middle,Male,29.0,1.0,0.0,194.0,N,No
+2263,Miami,Middle,Male,19.0,1.0,1.0,257.3,N,No
+2265,Miami,Lower,Male,,0.0,0.0,52.9,N,No
+2276,Miami,Lower,Male,17.0,0.0,0.0,60.6,N,No
+2279,Miami,Lower,Female,24.0,0.0,0.0,62.0,N,No
+2281,Miami,Lower,Male,21.0,0.0,0.0,59.0,N,No
+2296,Miami,Middle,Male,59.0,0.0,0.0,94.5,N,No
+2304,Miami,Middle,Male,30.0,0.0,0.0,91.0,N,No
+2314,Miami,Lower,Female,24.0,1.0,0.0,111.0,N,Yes
+2316,Ft. Lauderdale,Lower,Male,,0.0,0.0,55.3,N,No
+2320,Miami,Lower,Male,24.0,0.0,0.0,52.5,N,No
+2333,Ft. Lauderdale,Upper,Male,23.0,0.0,1.0,443.5,N,Yes
+2339,Miami,Upper,Female,19.0,0.0,0.0,210.0,N,Yes
+2354,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+2363,Miami,Middle,Male,49.0,1.0,2.0,455.0,N,No
+2364,Miami,Middle,Male,25.0,0.0,0.0,91.0,N,No
+2365,Miami,Upper,Female,47.0,1.0,0.0,428.2,N,Yes
+2367,Jacksonville,Lower,Male,70.5,0.0,0.0,54.3,N,No
+2371,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+2379,Miami,Middle,Male,,0.0,0.0,0.0,N,No
+2385,Miami,Lower,Male,1.0,5.0,2.0,328.3,Y,No
+2391,Ft. Lauderdale,Upper,Male,39.0,1.0,0.0,499.0,N,No
+2395,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+2396,Miami,Lower,Male,33.0,0.0,0.0,55.0,N,No
+2398,Jacksonville,Lower,Female,35.0,0.0,0.0,54.3,N,No
+2405,Ft. Lauderdale,Middle,Female,1.0,1.0,2.0,291.1,Y,Yes
+2411,Miami,Lower,Male,31.0,3.0,0.0,126.0,N,No
+2414,Miami,Middle,Female,48.0,1.0,2.0,455.0,N,Yes
+2436,Ft. Lauderdale,Lower,Male,15.0,1.0,1.0,50.6,Y,No
+2445,Jacksonville,Lower,Female,,0.0,0.0,55.2,N,Yes
+2446,Miami,Middle,Female,60.0,1.0,0.0,182.0,N,No
+2453,Miami,Lower,Male,28.0,0.0,0.0,55.3,N,No
+2465,Miami,Middle,Female,20.0,2.0,1.0,161.0,N,Yes
+2466,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+2483,Jacksonville,Lower,Male,26.0,0.0,0.0,55.2,N,No
+2488,Miami,Lower,Male,18.0,0.0,0.0,54.6,N,No
+2517,Miami,Lower,Male,18.0,1.0,0.0,45.5,N,No
+2520,Jacksonville,Lower,Male,2.0,4.0,1.0,203.9,Y,No
+2521,Miami,Lower,Male,32.0,0.0,0.0,395.5,N,Yes
+2534,Miami,Lower,Female,,3.0,1.0,178.3,N,No
+2544,Miami,Lower,Male,3.0,1.0,1.0,111.3,Y,Yes
+2558,Miami,Middle,Male,25.0,0.0,0.0,91.0,N,No
+2561,Miami,Lower,Male,34.0,1.0,1.0,100.8,N,No
+2562,Ft. Lauderdale,Upper,Male,32.0,0.0,0.0,213.5,N,Yes
+2566,Miami,Middle,Male,33.0,0.0,0.0,85.9,N,No
+2568,Miami,Lower,Male,25.0,0.0,0.0,0.0,N,Yes
+2572,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+2578,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+2590,Ft. Lauderdale,Upper,Male,51.0,0.0,1.0,429.7,N,No
+2596,Miami,Middle,Female,19.0,0.0,0.0,91.0,N,Yes
+2598,Ft. Lauderdale,Upper,Male,65.0,0.0,1.0,433.9,N,No
+2600,Miami,Upper,Male,54.0,0.0,0.0,363.0,N,No
+2603,Miami,Lower,Female,,0.0,0.0,52.9,N,No
+2620,Ft. Lauderdale,Upper,Male,46.0,0.0,0.0,554.4,N,No
+2624,Miami,Lower,Male,34.0,0.0,0.0,45.5,N,No
+2628,Miami,Lower,Female,18.0,2.0,0.0,126.0,N,No
+2642,Miami,Lower,Male,16.0,1.0,3.0,240.6,Y,No
+2645,Ft. Lauderdale,Middle,Female,27.0,1.0,0.0,97.0,N,Yes
+2655,Jacksonville,Middle,Male,,0.0,0.0,75.0,N,No
+2662,Miami,Middle,Male,19.0,0.0,0.0,73.5,N,Yes
+2669,Miami,Middle,Male,35.0,0.0,0.0,182.0,N,No
+2694,Miami,Lower,Male,26.0,0.0,0.0,55.2,N,No
+2714,Miami,Lower,Male,38.0,0.0,0.0,49.4,N,No
+2723,Miami,Upper,Male,0.9,1.0,2.0,1060.9,Y,Yes
+2727,Miami,Upper,Male,33.0,0.0,0.0,185.9,N,No
+2741,Miami,Lower,Male,21.0,0.0,0.0,54.4,N,No
+2744,Miami,Lower,Male,28.0,0.0,0.0,157.7,N,No
+2780,Ft. Lauderdale,Lower,Male,,0.0,0.0,45.1,N,No
+2797,Miami,Middle,Female,36.0,1.0,0.0,182.0,N,Yes
+2809,Miami,Lower,Male,32.0,0.0,0.0,58.5,N,No
+2811,Miami,Lower,Male,41.0,0.0,0.0,55.0,N,No
+2815,Miami,Upper,Female,43.0,0.0,1.0,1479.4,N,Yes
+2833,Miami,Middle,Male,29.0,1.0,0.0,147.0,N,No
+2839,Miami,Lower,Male,27.0,0.0,0.0,55.3,N,No
+2847,Miami,Lower,Male,44.0,0.0,0.0,56.4,N,No
+2855,Ft. Lauderdale,Upper,Male,45.0,1.0,1.0,941.5,N,Yes
+2864,Miami,Lower,Female,,1.0,9.0,486.9,N,No
+2867,Miami,Lower,Male,61.0,0.0,0.0,43.7,N,No
+2880,Miami,Lower,Female,22.0,0.0,0.0,50.8,N,Yes
+2891,Miami,Lower,Female,10.0,5.0,2.0,328.3,Y,No
+2906,Miami,Upper,Female,33.0,1.0,0.0,371.7,N,Yes
+2910,Miami,Upper,Male,62.0,0.0,0.0,185.9,N,No
+2928,Miami,Lower,Female,38.0,4.0,2.0,54.4,N,No
+2933,Miami,Upper,Female,19.0,0.0,2.0,184.0,N,Yes
+2938,Miami,Middle,Male,19.0,0.0,0.0,91.0,N,No
+2943,Miami,Upper,Male,65.0,0.0,0.0,185.9,N,No
+2965,Miami,Lower,Male,29.0,0.0,0.0,55.5,N,No
+2967,Ft. Lauderdale,Upper,Male,53.0,0.0,0.0,199.5,N,Yes
+2969,Miami,Lower,Male,24.0,0.0,0.0,54.6,N,No
+2974,Jacksonville,Lower,Male,34.5,0.0,0.0,54.8,N,No
+2982,Miami,Lower,Male,17.0,0.0,0.0,55.3,N,No
+2987,Miami,Upper,Male,40.0,0.0,0.0,0.0,N,No
+2988,Miami,Upper,Male,21.0,0.0,1.0,541.0,N,No
+3004,Miami,Lower,Male,74.0,0.0,0.0,54.4,N,No
+3020,Miami,Upper,Male,,0.0,0.0,248.5,N,Yes
+3033,Ft. Lauderdale,Lower,Male,22.5,0.0,0.0,50.6,N,No
+3038,Miami,Middle,Female,31.0,0.0,0.0,147.0,N,Yes
+3042,Miami,Middle,Male,18.0,0.0,0.0,73.5,N,No
+3053,Miami,Lower,Male,22.0,0.0,0.0,56.4,N,No
+3059,Miami,Lower,Female,,1.0,2.0,164.2,N,No
+3072,Miami,Upper,Male,47.0,0.0,0.0,238.1,N,No
+3075,Miami,Lower,Male,26.0,2.0,0.0,60.6,N,No
+3085,Miami,Middle,Male,40.0,0.0,0.0,91.0,N,No
+3087,Ft. Lauderdale,Upper,Female,64.0,0.0,2.0,582.1,N,Yes
+3093,Miami,Lower,Female,16.0,0.0,0.0,53.6,Y,Yes
+3101,Miami,Middle,Male,34.0,0.0,0.0,91.0,N,No
+3103,Miami,Lower,Male,23.0,0.0,0.0,55.3,N,No
+3109,Jacksonville,Lower,Female,17.0,0.0,0.0,54.1,N,No
+3116,Miami,Lower,Female,28.0,0.0,0.0,54.4,N,No
+3125,Ft. Lauderdale,Upper,Male,27.0,0.0,0.0,537.1,N,Yes
+3133,Miami,Middle,Male,18.0,0.0,0.0,514.5,N,No
+3137,Miami,Lower,Male,,0.0,0.0,395.5,N,Yes
+3138,Miami,Upper,Male,42.0,0.0,0.0,297.5,N,No
+3139,Miami,Lower,Male,28.0,0.0,0.0,55.0,N,No
+3140,Miami,Lower,Male,6.0,0.0,1.0,87.3,Y,Yes
+3146,Ft. Lauderdale,Upper,Male,35.0,0.0,0.0,3586.3,N,Yes
+3158,Ft. Lauderdale,Upper,Female,38.0,0.0,0.0,1592.7,N,Yes
+3162,Miami,Upper,Female,30.0,0.0,0.0,1154.1,N,Yes
+3170,Miami,Lower,Male,0.8,0.0,1.0,65.5,Y,Yes
+3179,Miami,Middle,Male,24.0,0.0,0.0,73.5,N,No
+3187,Miami,Middle,Male,24.0,0.0,0.0,94.5,N,No
+3189,Ft. Lauderdale,Upper,Female,50.0,1.0,1.0,1480.5,N,Yes
+3192,Miami,Upper,Female,49.0,0.0,0.0,181.5,N,Yes
+3203,Miami,Middle,Male,60.0,1.0,1.0,273.0,N,No
+3205,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+3207,Miami,Lower,Male,,8.0,2.0,486.9,N,No
+3230,Miami,Lower,Male,29.0,0.0,0.0,66.5,N,Yes
+3231,Miami,Lower,Male,25.0,0.0,0.0,49.4,N,No
+3240,Miami,Middle,Male,,0.0,0.0,0.0,N,No
+3243,Miami,Lower,Female,17.0,4.0,2.0,55.5,N,Yes
+3250,Miami,Lower,Male,,0.0,0.0,101.5,N,No
+3252,Miami,Lower,Female,30.0,0.0,0.0,60.6,N,No
+3273,Jacksonville,Lower,Female,39.0,0.0,5.0,203.9,N,No
+3285,Miami,Middle,Female,48.0,0.0,2.0,257.3,N,Yes
+3290,Miami,Middle,Male,26.0,0.0,0.0,91.0,N,No
+3297,Jacksonville,Lower,Male,21.0,0.0,0.0,54.7,N,Yes
+3311,Ft. Lauderdale,Upper,Female,39.0,1.0,1.0,776.2,N,Yes
+3312,Miami,Lower,Male,55.5,0.0,0.0,56.4,N,No
+3321,Miami,Middle,Female,22.0,0.0,0.0,73.5,N,Yes
+3331,Ft. Lauderdale,Lower,Male,,2.0,0.0,151.8,N,No
+3348,Miami,Lower,Male,28.0,1.0,0.0,111.0,N,No
+3356,Ft. Lauderdale,Upper,Female,42.0,0.0,0.0,1592.7,N,Yes
+3371,Miami,Lower,Male,26.0,0.0,0.0,55.3,N,No
+3381,Miami,Lower,Female,45.0,1.0,0.0,98.8,N,Yes
+3383,Ft. Lauderdale,Lower,Female,45.0,0.0,1.0,101.2,N,No
+3390,Miami,Lower,Male,24.0,0.0,0.0,56.4,N,No
+3400,Miami,Middle,Female,24.0,1.0,2.0,455.0,N,Yes
+3417,Miami,Lower,Male,34.0,0.0,0.0,56.4,N,No
+3423,Miami,Middle,Male,24.0,0.0,0.0,91.0,N,No
+3429,Miami,Middle,Male,23.0,0.0,0.0,91.0,N,No
+3433,Ft. Lauderdale,Lower,Female,,1.0,0.0,101.2,N,No
+3436,Miami,Upper,Male,30.0,0.0,0.0,318.5,N,No
+3440,Miami,Lower,Female,2.0,4.0,2.0,218.9,Y,No
+3441,Miami,Middle,Male,39.0,0.0,0.0,91.0,N,No
+3451,Miami,Middle,Male,,0.0,0.0,0.0,N,No
+3455,Ft. Lauderdale,Lower,Male,35.0,0.0,0.0,55.3,N,No
+3473,Miami,Upper,Male,31.0,1.0,0.0,399.0,N,Yes
+3481,Miami,Lower,Male,35.0,0.0,0.0,49.4,N,No
+3485,Miami,Lower,Male,25.0,0.0,0.0,55.3,N,No
+3487,Ft. Lauderdale,Lower,Male,40.0,0.0,0.0,50.6,N,No
+3492,Miami,Middle,Male,,0.0,0.0,91.0,N,Yes
+3495,Ft. Lauderdale,Upper,Female,35.0,1.0,0.0,404.3,N,Yes
+3498,Miami,Lower,Male,,0.0,0.0,50.8,N,No
+3507,Miami,Lower,Female,35.0,1.0,1.0,141.8,N,Yes
+3509,Ft. Lauderdale,Lower,Female,45.0,0.0,0.0,50.6,N,Yes
+3523,Miami,Lower,Male,21.0,1.0,0.0,45.5,N,No
+3527,Jacksonville,Lower,Male,,0.0,0.0,54.1,N,No
+3529,Ft. Lauderdale,Upper,Female,45.0,0.0,1.0,415.8,N,Yes
+3536,Miami,Upper,Female,27.0,1.0,2.0,364.0,N,Yes
+3543,Miami,Lower,Male,6.0,3.0,1.0,147.5,Y,No
+3545,Miami,Lower,Male,25.0,0.0,0.0,55.5,N,No
+3547,Miami,Lower,Female,22.0,0.0,0.0,68.9,N,No
+3550,Miami,Lower,Male,,0.0,0.0,50.8,N,No
+3561,Miami,Upper,Male,61.0,0.0,0.0,234.5,N,No
+3566,Miami,Middle,Male,46.0,0.0,0.0,182.0,N,No
+3567,Miami,Middle,Male,,0.0,0.0,0.0,N,No
+3568,Ft. Lauderdale,Upper,Male,18.0,1.0,0.0,762.3,N,No
+3572,Miami,Lower,Male,14.0,5.0,2.0,328.3,Y,No
+3575,Miami,Middle,Female,32.0,0.0,0.0,91.0,N,Yes
+3586,Jacksonville,Lower,Female,,0.0,0.0,54.0,N,Yes
+3590,Ft. Lauderdale,Upper,Male,49.0,1.0,0.0,398.5,N,Yes
+3591,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+3592,Miami,Lower,Female,22.0,0.0,0.0,73.6,N,No
+3601,Miami,Upper,Male,17.0,0.0,0.0,329.7,N,No
+3617,Miami,Middle,Female,45.0,0.0,0.0,94.5,N,Yes
+3619,Miami,Upper,Female,36.0,0.0,2.0,497.0,N,Yes
+3625,Miami,Middle,Male,31.0,1.0,1.0,183.8,N,No
+3631,Miami,Middle,Female,36.0,0.0,0.0,91.0,N,Yes
+3632,Ft. Lauderdale,Middle,Female,28.0,1.0,0.0,168.0,N,Yes
+3636,Ft. Lauderdale,Lower,Male,34.5,0.0,0.0,45.1,N,No
+3642,Miami,Lower,Female,41.0,0.0,5.0,277.8,N,No
+3646,Miami,Middle,Male,30.0,0.0,0.0,91.0,N,No
+3647,Miami,Middle,Male,28.0,0.0,0.0,91.0,N,No
+3652,Ft. Lauderdale,Upper,Male,,0.0,0.0,277.2,N,No
+3654,Miami,Middle,Male,21.0,2.0,0.0,514.5,N,No
+3657,Miami,Lower,Male,20.0,0.0,0.0,56.4,N,No
+3663,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+3666,Ft. Lauderdale,Lower,Male,30.0,0.0,0.0,50.6,N,No
+3667,Miami,Middle,Male,26.0,0.0,0.0,91.0,N,No
+3671,Ft. Lauderdale,Upper,Female,19.0,1.0,0.0,637.6,N,Yes
+3674,Miami,Upper,Female,54.0,1.0,1.0,573.0,N,Yes
+3701,Miami,Upper,Male,54.0,0.0,1.0,541.0,N,No
+3709,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+3717,Miami,Lower,Female,21.0,2.0,2.0,240.6,N,No
+3718,Jacksonville,Lower,Male,,2.0,0.0,162.8,N,Yes
+3720,Miami,Lower,Male,24.0,0.0,0.0,66.5,N,No
+3740,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+3744,Miami,Middle,Male,54.0,0.0,0.0,98.0,N,No
+3749,Ft. Lauderdale,Upper,Male,48.0,0.0,0.0,353.5,N,No
+3756,Miami,Lower,Male,20.0,0.0,0.0,55.0,N,No
+3761,Jacksonville,Lower,Male,,0.0,0.0,59.2,N,No
+3768,Jacksonville,Lower,Female,,0.0,0.0,54.1,N,Yes
+3772,Ft. Lauderdale,Upper,Female,25.0,1.0,0.0,388.1,N,Yes
+3780,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+3781,Ft. Lauderdale,Middle,Male,,0.0,0.0,109.1,N,No
+3783,Jacksonville,Lower,Female,22.0,0.0,0.0,54.3,N,Yes
+3786,Miami,Upper,Female,47.0,1.0,1.0,367.9,N,Yes
+3792,Ft. Lauderdale,Upper,Female,30.0,0.0,0.0,398.5,N,Yes
+3812,Ft. Lauderdale,Lower,Female,0.8,2.0,1.0,134.8,Y,Yes
+3818,Ft. Lauderdale,Upper,Female,50.0,0.0,0.0,201.0,N,No
+3819,Ft. Lauderdale,Lower,Male,11.0,0.0,0.0,131.5,Y,No
+3832,Miami,Upper,Female,33.0,0.0,0.0,1060.9,N,Yes
+3835,Ft. Lauderdale,Upper,Female,24.0,0.0,0.0,346.5,N,Yes
+3836,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+3840,Miami,Lower,Male,21.0,0.0,0.0,54.6,N,Yes
+3850,Miami,Upper,Male,28.0,0.0,0.0,329.7,N,No
+3851,Jacksonville,Lower,Female,27.0,0.0,0.0,55.2,N,No
+3853,Miami,Lower,Male,43.0,0.0,0.0,45.2,N,No
+3861,Miami,Lower,Male,32.0,1.0,0.0,111.0,N,No
+3870,Miami,Upper,Male,,0.0,0.0,277.2,N,Yes
+3875,Miami,Upper,Male,55.0,0.0,0.0,213.5,N,No
+3876,Miami,Middle,Female,29.0,1.0,0.0,182.0,N,Yes
+3883,Ft. Lauderdale,Middle,Male,31.0,1.0,1.0,259.0,N,No
+3895,Ft. Lauderdale,Upper,Female,40.0,1.0,1.0,941.5,N,Yes
+3897,Miami,Upper,Male,64.0,0.0,0.0,182.0,N,No
+3898,Ft. Lauderdale,Upper,Female,,0.0,0.0,554.4,N,Yes
+3899,Miami,Middle,Male,36.0,0.0,0.0,91.0,N,No
+3900,Jacksonville,Lower,Female,22.0,0.0,0.0,54.1,N,Yes
+3901,Miami,Lower,Female,48.0,1.0,3.0,240.6,N,No
+3921,Miami,Upper,Female,55.0,2.0,0.0,179.9,N,Yes
+3923,Ft. Lauderdale,Lower,Female,18.0,0.0,1.0,101.2,N,No
+3942,Miami,Lower,Male,32.5,0.0,0.0,66.5,N,No
+3951,Miami,Middle,Female,25.0,0.0,1.0,182.0,N,Yes
+3957,Miami,Lower,Male,32.0,0.0,0.0,55.5,N,No
+3958,Miami,Middle,Male,26.0,0.0,0.0,73.5,N,No
+3962,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+3971,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+3995,Miami,Lower,Male,,1.0,0.0,112.7,N,No
+4004,Miami,Upper,Male,56.0,0.0,0.0,185.9,N,No
+4030,Miami,Lower,Male,24.0,1.0,0.0,112.7,N,No
+4035,Miami,Lower,Male,32.0,0.0,0.0,53.1,N,Yes
+4042,Miami,Lower,Female,,0.0,0.0,56.4,N,No
+4058,Jacksonville,Lower,Male,31.0,0.0,0.0,54.3,N,No
+4070,Miami,Upper,Female,64.0,1.0,1.0,185.9,N,Yes
+4078,Miami,Upper,Male,11.0,1.0,2.0,840.0,Y,Yes
+4081,Miami,Lower,Female,23.0,0.0,0.0,56.4,N,Yes
+4093,Jacksonville,Middle,Male,57.0,0.0,0.0,86.5,N,No
+4097,Miami,Lower,Male,18.0,0.0,0.0,54.4,N,No
+4098,Jacksonville,Lower,Female,,1.0,0.0,108.5,N,Yes
+4099,Miami,Middle,Female,36.0,0.0,0.0,91.0,N,Yes
+4100,Jacksonville,Lower,Female,24.0,0.0,0.0,54.3,N,Yes
+4123,Miami,Middle,Female,41.0,0.0,1.0,136.5,N,Yes
+4136,Miami,Upper,Female,,1.0,0.0,364.0,N,Yes
+4144,Miami,Lower,Male,51.0,0.0,0.0,49.4,N,No
+4152,Miami,Upper,Male,47.0,0.0,0.0,364.0,N,No
+4155,Ft. Lauderdale,Lower,Male,22.0,0.0,0.0,50.6,N,Yes
+4157,Miami,Upper,Male,38.0,0.0,1.0,1074.2,N,No
+4174,Miami,Upper,Male,42.0,0.0,0.0,184.0,N,Yes
+4177,Miami,Lower,Male,22.0,0.0,0.0,50.8,N,No
+4187,Ft. Lauderdale,Upper,Male,40.0,0.0,0.0,217.0,N,Yes
+4200,Miami,Middle,Male,39.0,0.0,0.0,91.0,N,No
+4219,Miami,Upper,Male,42.0,1.0,0.0,364.0,N,No
+4225,Jacksonville,Lower,Male,25.0,0.0,0.0,54.2,N,No
+4228,Ft. Lauderdale,Upper,Male,21.0,0.0,1.0,429.7,N,Yes
+4242,Jacksonville,Lower,Male,,0.0,0.0,54.1,N,No
+4244,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,Yes
+4252,Miami,Lower,Male,42.0,0.0,1.0,58.8,N,No
+4253,Jacksonville,Lower,Male,,1.0,0.0,108.5,N,No
+4254,Miami,Upper,Female,29.0,0.0,0.0,1479.4,N,Yes
+4255,Miami,Middle,Female,38.0,0.0,0.0,91.0,N,No
+4257,Miami,Lower,Female,22.0,0.0,0.0,54.3,N,Yes
+4258,Miami,Upper,Male,45.0,0.0,0.0,248.5,N,No
+4273,Miami,Upper,Male,23.0,0.0,0.0,654.5,N,No
+4275,Miami,Middle,Female,24.0,0.0,2.0,101.5,N,Yes
+4279,Ft. Lauderdale,Lower,Male,26.0,0.0,0.0,131.5,N,Yes
+4280,Miami,Upper,Male,50.0,2.0,0.0,935.6,N,Yes
+4296,Miami,Upper,Male,,0.0,0.0,210.0,N,Yes
+4307,Ft. Lauderdale,Lower,Female,,0.0,0.0,50.6,N,Yes
+4314,Miami,Upper,Female,76.0,1.0,0.0,552.0,N,Yes
+4316,Miami,Upper,Male,34.0,0.0,0.0,185.9,N,Yes
+4317,Miami,Lower,Female,16.0,5.0,2.0,328.3,Y,No
+4323,Ft. Lauderdale,Lower,Male,20.0,0.0,0.0,50.6,N,No
+4329,Miami,Upper,Male,60.0,0.0,0.0,185.9,N,No
+4339,Ft. Lauderdale,Middle,Female,14.0,1.0,0.0,210.5,Y,Yes
+4343,Jacksonville,Lower,Female,,0.0,0.0,54.1,N,Yes
+4351,Miami,Middle,Male,18.0,0.0,0.0,91.0,N,No
+4359,Miami,Lower,Female,21.0,0.0,0.0,53.6,N,Yes
+4368,Ft. Lauderdale,Lower,Female,0.8,2.0,1.0,134.8,Y,Yes
+4371,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+4382,Miami,Middle,Male,23.0,0.0,0.0,73.5,N,No
+4392,Miami,Middle,Male,18.0,0.0,0.0,80.5,N,No
+4396,Miami,Lower,Male,16.0,0.0,0.0,64.5,Y,No
+4415,Miami,Upper,Female,18.0,1.0,0.0,371.7,N,Yes
+4418,Miami,Lower,Female,30.0,1.0,1.0,169.1,N,No
+4426,Ft. Lauderdale,Lower,Male,30.0,0.0,0.0,50.6,N,No
+4430,Miami,Lower,Male,29.0,1.0,0.0,49.3,N,No
+4432,Ft. Lauderdale,Lower,Male,23.5,0.0,0.0,50.6,N,No
+4456,Jacksonville,Upper,Female,33.0,1.0,0.0,630.0,N,Yes
+4471,Miami,Upper,Female,24.0,3.0,2.0,1841.0,N,Yes
+4481,Ft. Lauderdale,Upper,Female,54.0,1.0,0.0,547.9,N,Yes
+4485,Ft. Lauderdale,Lower,Female,9.0,1.0,1.0,106.7,Y,Yes
+4491,Miami,Lower,Female,31.0,1.0,1.0,143.7,N,Yes
+4496,Miami,Upper,Female,35.0,1.0,0.0,630.0,N,Yes
+4497,Ft. Lauderdale,Upper,Female,26.0,1.0,0.0,957.5,N,Yes
+4499,Miami,Lower,Female,41.0,0.0,2.0,141.5,N,No
+4509,Miami,Middle,Female,34.0,0.0,0.0,91.0,N,Yes
+4519,Ft. Lauderdale,Middle,Female,24.0,1.0,1.0,259.0,N,Yes
+4521,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+4525,Ft. Lauderdale,Upper,Male,30.0,0.0,0.0,194.3,N,No
+4526,Miami,Upper,Male,48.0,0.0,0.0,185.9,N,Yes
+4538,Jacksonville,Middle,Male,35.0,0.0,0.0,86.5,N,No
+4558,Miami,Upper,Female,35.0,1.0,0.0,584.3,N,Yes
+4572,Miami,Lower,Male,28.0,0.0,0.0,56.4,N,No
+4575,Ft. Lauderdale,Upper,Female,44.0,0.0,0.0,194.0,N,Yes
+4579,Miami,Middle,Female,40.0,0.0,0.0,91.0,N,Yes
+4616,Ft. Lauderdale,Lower,Male,27.0,0.0,0.0,50.6,N,No
+4625,Miami,Middle,Female,54.0,1.0,3.0,161.0,N,Yes
+4632,Miami,Middle,Female,28.0,1.0,0.0,182.0,N,Yes
+4652,Ft. Lauderdale,Upper,Male,,0.0,0.0,194.0,N,No
+4663,Miami,Lower,Male,18.0,1.0,1.0,55.0,N,No
+4675,Ft. Lauderdale,Upper,Male,47.0,1.0,0.0,1592.7,N,No
+4677,Miami,Lower,Male,,0.0,0.0,395.5,N,No
+4701,Jacksonville,Lower,Female,,1.0,0.0,108.5,N,Yes
+4704,Miami,Lower,Male,38.0,0.0,0.0,55.3,N,No
+4707,Ft. Lauderdale,Middle,Male,41.0,0.0,0.0,105.3,N,No
+4709,Miami,Lower,Male,27.0,0.0,0.0,54.6,N,Yes
+4711,Jacksonville,Lower,Female,,0.0,0.0,53.4,N,No
+4715,Ft. Lauderdale,Lower,Male,6.0,1.0,1.0,106.7,Y,No
+4717,Miami,Upper,Female,62.0,0.0,0.0,560.0,N,Yes
+4723,Jacksonville,Lower,Male,29.0,0.0,0.0,54.3,N,Yes
+4728,Miami,Lower,Male,5.0,4.0,2.0,219.7,Y,No
+4729,Miami,Lower,Male,13.0,0.0,2.0,141.8,Y,No
+4748,Miami,Lower,Female,,0.0,0.0,56.4,N,Yes
+4754,Jacksonville,Lower,Male,7.0,4.0,1.0,203.9,Y,No
+4755,Miami,Middle,Male,30.0,0.0,0.0,91.0,N,No
+4762,Miami,Lower,Female,27.0,1.0,0.0,55.5,N,No
+4765,Jacksonville,Lower,Male,21.0,0.0,0.0,54.1,N,No
+4772,Miami,Lower,Male,,0.0,0.0,54.4,N,No
+4779,Miami,Lower,Male,17.0,0.0,0.0,60.6,N,No
+4782,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+4789,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+4815,Miami,Lower,Male,14.0,4.0,1.0,277.8,Y,No
+4816,Miami,Lower,Female,23.0,0.0,0.0,60.6,N,No
+4820,Miami,Lower,Male,20.5,0.0,0.0,50.8,N,No
+4823,Ft. Lauderdale,Middle,Male,23.0,0.0,0.0,105.3,N,No
+4831,Miami,Middle,Male,19.0,0.0,0.0,73.5,N,No
+4835,Ft. Lauderdale,Upper,Female,55.0,0.0,0.0,194.0,N,Yes
+4839,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+4850,Ft. Lauderdale,Middle,Male,1.0,0.0,2.0,259.0,Y,Yes
+4855,Miami,Lower,Male,,3.0,1.0,178.3,N,No
+4856,Miami,Lower,Male,19.0,0.0,0.0,56.4,N,Yes
+4865,Miami,Lower,Male,21.0,0.0,0.0,54.6,N,No
+4871,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+4897,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+4898,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+4904,Miami,Lower,Male,29.0,3.0,1.0,154.2,N,Yes
+4905,Miami,Middle,Male,52.0,0.0,0.0,91.0,N,No
+4916,Miami,Lower,Male,29.0,0.0,0.0,66.4,N,No
+4944,Miami,Middle,Female,12.0,0.0,0.0,110.3,Y,Yes
+4947,Miami,Lower,Male,21.0,0.0,0.0,55.0,N,No
+4956,Ft. Lauderdale,Lower,Male,25.0,0.0,0.0,50.6,N,Yes
+4957,Miami,Lower,Male,11.5,1.0,1.0,101.5,Y,No
+4960,Miami,Lower,Male,,1.0,2.0,164.2,N,No
+4961,Miami,Upper,Male,46.0,0.0,0.0,182.0,N,No
+4967,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+4970,Miami,Middle,Male,32.0,0.0,0.0,91.0,N,No
+4981,Jacksonville,Lower,Male,,0.0,0.0,54.8,N,No
+4986,Ft. Lauderdale,Upper,Female,17.0,1.0,0.0,762.3,N,Yes
+4988,Miami,Middle,Female,0.9,1.0,2.0,194.3,Y,Yes
+5007,Ft. Lauderdale,Upper,Male,,0.0,0.0,207.9,N,Yes
+5011,Ft. Lauderdale,Upper,Male,61.0,1.0,3.0,1836.6,N,No
+5016,Miami,Lower,Female,29.0,1.0,1.0,73.2,N,No
+5021,Miami,Lower,Male,24.0,0.0,0.0,52.9,N,Yes
+5029,Ft. Lauderdale,Lower,Female,16.0,1.0,1.0,59.6,Y,Yes
+5063,Miami,Middle,Female,50.0,0.0,0.0,73.5,N,Yes
+5065,Miami,Lower,Male,,0.0,0.0,54.4,N,Yes
+5077,Miami,Lower,Female,31.0,1.0,0.0,126.0,N,No
+5094,Ft. Lauderdale,Upper,Male,25.0,1.0,0.0,637.6,N,Yes
+5095,Miami,Lower,Male,18.0,0.0,0.0,58.1,N,No
+5096,Miami,Middle,Male,27.0,0.0,0.0,91.0,N,No
+5098,Miami,Upper,Male,52.0,1.0,1.0,557.6,N,No
+5103,Miami,Middle,Male,24.0,2.0,0.0,514.5,N,No
+5106,Miami,Middle,Female,22.0,0.0,0.0,147.0,N,No
+5107,Miami,Upper,Female,2.0,1.0,2.0,1060.9,Y,No
+5117,Miami,Lower,Male,20.0,0.0,0.0,55.0,N,No
+5149,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+5159,Miami,Middle,Female,42.0,1.0,0.0,182.0,N,Yes
+5173,Miami,Middle,Female,30.0,3.0,0.0,147.0,N,Yes
+5180,Miami,Middle,Female,33.0,1.0,2.0,194.3,N,Yes
+5186,Miami,Lower,Female,18.0,0.0,0.0,52.5,N,Yes
+5216,Miami,Lower,Male,28.0,0.0,0.0,66.5,N,No
+5227,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+5238,Jacksonville,Lower,Female,18.0,0.0,0.0,55.2,N,No
+5243,Miami,Middle,Female,4.0,1.0,1.0,161.0,Y,Yes
+5250,Miami,Lower,Male,18.0,1.0,1.0,141.5,N,No
+5263,Miami,Middle,Male,36.0,0.0,0.0,73.5,N,No
+5283,Miami,Lower,Male,19.0,0.0,0.0,101.5,N,No
+5286,Miami,Lower,Male,16.0,2.0,0.0,126.0,Y,No
+5293,Jacksonville,Lower,Female,,0.0,0.0,57.0,N,No
+5303,Miami,Upper,Male,,0.0,0.0,0.0,N,No
+5319,Miami,Middle,Male,43.0,0.0,1.0,147.0,N,No
+5320,Miami,Upper,Male,80.0,0.0,0.0,210.0,N,Yes
+5321,Ft. Lauderdale,Middle,Female,22.0,1.0,2.0,291.1,N,Yes
+5322,Miami,Upper,Male,47.0,0.0,0.0,179.1,N,No
+5330,Jacksonville,Lower,Male,24.0,0.0,0.0,50.8,N,No
+5336,Miami,Lower,Male,36.0,0.0,0.0,52.5,N,No
+5354,Miami,Middle,Male,29.0,0.0,0.0,73.5,N,No
+5356,Ft. Lauderdale,Upper,Male,71.0,0.0,0.0,242.6,N,No
+5358,Miami,Lower,Female,38.0,1.0,5.0,219.7,N,Yes
+5368,Jacksonville,Lower,Female,30.0,0.0,0.0,48.7,N,Yes
+5377,Miami,Lower,Male,33.0,0.0,0.0,56.4,N,No
+5379,Ft. Lauderdale,Lower,Female,,1.0,1.0,156.5,N,Yes
+5386,Miami,Middle,Female,31.0,0.0,0.0,147.0,N,Yes
+5392,Miami,Lower,Male,16.0,1.0,1.0,141.8,Y,No
+5396,Miami,Lower,Male,10.0,3.0,2.0,195.3,Y,No
+5420,Miami,Upper,Female,21.0,0.0,0.0,545.7,N,Yes
+5432,Miami,Lower,Male,28.0,2.0,0.0,55.5,N,No
+5435,Miami,Lower,Male,32.0,0.0,0.0,55.5,N,No
+5467,Miami,Lower,Male,20.0,0.0,0.0,68.9,N,No
+5491,Miami,Upper,Female,22.0,1.0,0.0,466.2,N,Yes
+5495,Miami,Middle,Female,5.0,1.0,2.0,194.3,Y,Yes
+5497,Miami,Lower,Male,35.0,0.0,0.0,56.4,N,No
+5500,Miami,Upper,Male,,0.0,0.0,182.0,N,Yes
+5519,Ft. Lauderdale,Upper,Female,18.0,2.0,2.0,1836.6,N,Yes
+5527,Miami,Upper,Male,33.0,0.0,0.0,35.0,N,No
+5538,Miami,Middle,Male,54.0,1.0,0.0,182.0,N,No
+5557,Miami,Upper,Male,,0.0,0.0,363.0,N,No
+5561,Miami,Lower,Female,1.0,1.0,1.0,116.9,Y,Yes
+5569,Miami,Lower,Male,20.0,0.0,0.0,55.5,N,No
+5573,Miami,Middle,Male,42.0,1.0,1.0,227.5,N,No
+5575,Miami,Middle,Male,22.0,2.0,0.0,220.5,N,No
+5576,Miami,Middle,Female,24.0,1.0,0.0,182.0,N,Yes
+5578,Miami,Lower,Male,32.0,0.0,0.0,56.4,N,Yes
+5592,Ft. Lauderdale,Middle,Male,20.0,0.0,0.0,97.0,N,Yes
+5600,Miami,Lower,Male,20.0,0.0,0.0,60.6,N,No
+5607,Miami,Middle,Male,32.0,0.0,0.0,94.5,N,No
+5625,Miami,Middle,Male,42.0,1.0,0.0,189.0,N,No
+5627,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+5630,Miami,Upper,Male,19.0,1.0,0.0,371.7,N,No
+5634,Jacksonville,Lower,Male,21.0,0.0,0.0,54.3,N,No
+5641,Miami,Middle,Male,34.0,1.0,0.0,182.0,N,No
+5643,Jacksonville,Lower,Male,32.0,0.0,0.0,54.3,N,No
+5667,Miami,Middle,Female,7.0,0.0,2.0,183.8,Y,Yes
+5668,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+5672,Miami,Upper,Male,,0.0,0.0,217.0,N,No
+5684,Miami,Lower,Female,40.0,1.0,0.0,66.3,N,No
+5688,Miami,Upper,Male,61.0,0.0,0.0,226.2,N,No
+5690,Miami,Upper,Male,38.0,0.0,0.0,0.0,N,No
+5692,Miami,Lower,Male,22.0,0.0,0.0,49.9,N,No
+5701,Miami,Lower,Male,19.0,0.0,0.0,53.6,N,No
+5716,Miami,Middle,Female,28.0,0.0,0.0,91.0,N,Yes
+5723,Miami,Middle,Male,0.8,1.0,1.0,131.3,Y,Yes
+5724,Ft. Lauderdale,Lower,Male,,0.0,0.0,61.0,N,No
+5746,Miami,Lower,Female,27.0,0.0,1.0,87.3,N,Yes
+5749,Miami,Lower,Male,19.0,0.0,0.0,71.2,N,No
+5763,Miami,Lower,Male,,0.0,0.0,49.0,N,No
+5769,Miami,Lower,Male,33.0,0.0,0.0,66.5,N,No
+5787,Miami,Lower,Male,,0.0,0.0,49.4,N,Yes
+5799,Ft. Lauderdale,Lower,Male,20.0,1.0,1.0,110.2,N,Yes
+5822,Miami,Lower,Male,20.0,0.0,0.0,55.0,N,No
+5842,Miami,Lower,Male,36.0,1.0,0.0,108.9,N,No
+5846,Miami,Lower,Male,9.0,1.0,1.0,111.3,Y,Yes
+5850,Jacksonville,Lower,Male,65.0,0.0,0.0,54.3,N,No
+5858,Jacksonville,Lower,Female,24.0,0.0,0.0,54.3,N,No
+5861,Miami,Lower,Female,39.0,1.0,5.0,218.9,N,No
+5867,Ft. Lauderdale,Upper,Male,43.0,1.0,0.0,194.0,N,Yes
+5874,Miami,Lower,Female,18.0,0.0,1.0,65.5,N,Yes
+5880,Miami,Lower,Male,22.0,0.0,0.0,54.6,N,No
+5899,Miami,Upper,Male,,0.0,0.0,245.0,N,No
+5901,Miami,Lower,Male,9.0,4.0,2.0,219.7,Y,No
+5910,Miami,Upper,Male,28.0,0.0,0.0,248.5,N,Yes
+5915,Miami,Upper,Female,36.0,1.0,2.0,840.0,N,Yes
+5927,Ft. Lauderdale,Upper,Female,22.0,0.0,1.0,415.8,N,Yes
+5947,Miami,Upper,Female,23.0,1.0,0.0,575.9,N,Yes
+5955,Miami,Lower,Female,4.0,0.0,2.0,154.2,Y,Yes
+5957,Miami,Middle,Male,25.0,0.0,0.0,220.5,N,No
+5961,Miami,Lower,Female,23.0,0.0,0.0,52.9,N,Yes
+5985,Miami,Middle,Male,30.0,0.0,0.0,73.5,N,No
+5991,Miami,Upper,Male,51.0,0.0,0.0,185.9,N,Yes
+6010,Miami,Lower,Male,27.0,0.0,0.0,48.8,N,Yes
+6012,Miami,Lower,Male,35.0,0.0,0.0,49.9,N,No
+6017,Miami,Upper,Female,39.0,1.0,1.0,557.6,N,Yes
+6041,Miami,Middle,Female,20.0,1.0,0.0,182.0,N,Yes
+6042,Miami,Lower,Male,32.0,0.0,0.0,56.4,N,No
+6057,Ft. Lauderdale,Upper,Male,48.0,1.0,0.0,537.1,N,Yes
+6059,Miami,Middle,Female,12.0,2.0,1.0,273.0,Y,Yes
+6060,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+6066,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+6076,Miami,Upper,Male,52.0,0.0,0.0,213.5,N,Yes
+6084,Ft. Lauderdale,Lower,Male,26.5,0.0,0.0,50.6,N,No
+6086,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+6096,Miami,Upper,Male,,0.0,0.0,181.5,N,No
+6098,Miami,Upper,Male,36.0,0.0,0.0,184.7,N,Yes
+6103,Miami,Lower,Male,22.0,0.0,0.0,56.4,N,No
+6115,Miami,Lower,Female,29.0,0.0,0.0,55.5,N,No
+6131,Miami,Lower,Female,,8.0,2.0,486.9,N,No
+6138,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+6142,Miami,Lower,Male,28.5,0.0,0.0,112.7,N,No
+6156,Ft. Lauderdale,Upper,Female,,0.0,0.0,776.2,N,Yes
+6164,Ft. Lauderdale,Lower,Male,20.0,0.0,0.0,50.6,N,Yes
+6184,Miami,Middle,Male,,0.0,0.0,90.1,N,No
+6202,Miami,Lower,Male,51.0,0.0,0.0,54.3,N,No
+6204,Miami,Middle,Male,25.0,0.0,0.0,91.0,N,No
+6208,Miami,Lower,Female,36.0,1.0,0.0,121.8,N,Yes
+6216,Miami,Lower,Male,39.0,0.0,0.0,55.5,N,Yes
+6219,Jacksonville,Lower,Female,32.0,1.0,1.0,108.5,N,No
+6222,Miami,Lower,Female,33.0,1.0,2.0,144.0,N,Yes
+6235,Ft. Lauderdale,Lower,Female,4.0,0.0,1.0,93.9,Y,Yes
+6241,Miami,Upper,Female,,1.0,0.0,363.0,N,Yes
+6252,Miami,Middle,Male,30.0,0.0,0.0,91.0,N,No
+6253,Miami,Middle,Male,30.0,1.0,1.0,182.0,N,No
+6290,Miami,Middle,Male,42.0,0.0,0.0,91.0,N,No
+6291,Ft. Lauderdale,Lower,Female,,0.0,2.0,156.5,N,Yes
+6301,Miami,Lower,Female,,0.0,0.0,101.5,N,No
+6313,Ft. Lauderdale,Upper,Male,30.0,1.0,0.0,404.3,N,Yes
+6324,Miami,Middle,Male,43.0,1.0,1.0,183.8,N,No
+6325,Ft. Lauderdale,Lower,Male,39.0,0.0,1.0,93.9,N,Yes
+6327,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+6338,Miami,Lower,Male,11.0,5.0,2.0,328.3,Y,No
+6347,Ft. Lauderdale,Upper,Female,35.0,0.0,0.0,3586.3,N,Yes
+6349,Jacksonville,Lower,Female,16.0,0.0,0.0,54.1,Y,Yes
+6350,Ft. Lauderdale,Upper,Female,,1.0,0.0,1025.6,N,Yes
+6361,Miami,Upper,Male,,0.0,0.0,364.0,N,No
+6366,Miami,Lower,Female,1.0,1.0,1.0,77.9,Y,Yes
+6372,Ft. Lauderdale,Lower,Female,19.0,1.0,1.0,110.2,N,Yes
+6381,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+6394,Miami,Lower,Female,23.0,0.0,0.0,55.5,N,No
+6415,Miami,Upper,Male,42.0,0.0,0.0,185.9,N,No
+6417,Miami,Upper,Female,14.0,1.0,2.0,840.0,Y,Yes
+6419,Miami,Middle,Male,23.0,1.0,0.0,73.5,N,No
+6420,Miami,Lower,Male,36.0,0.0,0.0,55.3,N,No
+6423,Miami,Upper,Male,36.0,1.0,2.0,840.0,N,Yes
+6425,Miami,Lower,Male,60.5,0.0,0.0,0.0,N,No
+6427,Miami,Middle,Female,19.0,1.0,0.0,182.0,N,Yes
+6428,Jacksonville,Lower,Female,,0.0,0.0,54.8,N,Yes
+6432,Miami,Lower,Female,,3.0,1.0,178.3,N,No
+6439,Miami,Upper,Male,47.0,0.0,0.0,296.8,N,No
+6446,Miami,Upper,Male,55.0,1.0,1.0,654.5,N,No
+6449,Ft. Lauderdale,Lower,Male,33.0,0.0,0.0,60.6,N,No
+6454,Ft. Lauderdale,Upper,Male,49.0,1.0,1.0,776.2,N,No
+6455,Miami,Middle,Male,44.0,1.0,0.0,182.0,N,No
+6458,Miami,Lower,Male,49.0,0.0,0.0,0.0,N,No
+6460,Miami,Middle,Female,30.0,0.0,0.0,91.0,N,No
+6466,Miami,Lower,Male,26.0,0.0,0.0,55.3,N,No
+6495,Miami,Lower,Male,31.0,0.0,0.0,54.4,N,No
+6509,Miami,Middle,Male,28.0,0.0,0.0,73.5,N,No
+6510,Miami,Lower,Male,26.0,0.0,0.0,55.3,N,No
+6521,Ft. Lauderdale,Middle,Male,,0.0,0.0,97.0,N,Yes
+6522,Miami,Lower,Female,9.0,4.0,2.0,218.9,Y,No
+6525,Miami,Lower,Male,24.0,2.0,0.0,169.1,N,No
+6527,Miami,Middle,Male,0.8,0.0,2.0,203.0,Y,Yes
+6529,Ft. Lauderdale,Upper,Female,24.0,0.0,0.0,485.1,N,Yes
+6532,Miami,Middle,Female,25.0,1.0,1.0,210.0,N,Yes
+6546,Miami,Lower,Male,9.0,5.0,2.0,328.3,Y,No
+6563,Ft. Lauderdale,Upper,Female,54.0,1.0,0.0,415.8,N,Yes
+6576,Miami,Middle,Male,,0.0,0.0,0.0,N,No
+6577,Miami,Lower,Female,22.0,0.0,0.0,54.4,N,Yes
+6588,Miami,Lower,Male,23.0,1.0,0.0,97.3,N,No
+6607,Miami,Middle,Female,24.0,0.0,0.0,91.0,N,No
+6608,Ft. Lauderdale,Upper,Female,60.0,0.0,0.0,534.0,N,Yes
+6610,Ft. Lauderdale,Upper,Female,24.0,0.0,0.0,582.1,N,Yes
+6614,Miami,Middle,Male,47.0,0.0,0.0,105.0,N,No
+6617,Miami,Lower,Female,,0.0,0.0,56.4,N,Yes
+6626,Miami,Lower,Male,,0.0,0.0,55.2,N,Yes
+6672,Jacksonville,Lower,Female,15.0,0.0,0.0,56.2,Y,Yes
+6726,Miami,Lower,Female,47.0,1.0,0.0,101.5,N,No
+6737,Miami,Lower,Male,43.0,0.0,0.0,56.4,N,No
+6747,Ft. Lauderdale,Upper,Female,39.0,1.0,1.0,582.1,N,Yes
+6755,Ft. Lauderdale,Upper,Male,56.0,0.0,0.0,214.9,N,No
+6773,Miami,Lower,Male,1.0,1.0,2.0,144.0,Y,Yes
+6775,Miami,Middle,Female,44.0,1.0,0.0,182.0,N,No
+6783,Miami,Middle,Male,1.0,2.0,1.0,273.0,Y,Yes
+6785,Miami,Upper,Female,58.0,0.0,0.0,185.9,N,Yes
+6793,Miami,Lower,Male,29.0,0.0,0.0,55.0,N,No
+6801,Miami,Lower,Male,30.0,0.0,0.0,56.4,N,No
+6803,Miami,Upper,Male,45.0,0.0,0.0,185.9,N,No
+6816,Ft. Lauderdale,Upper,Female,16.0,0.0,1.0,405.9,Y,Yes
+6831,Miami,Lower,Male,32.0,0.0,0.0,157.7,N,No
+6836,Ft. Lauderdale,Upper,Female,21.0,2.0,2.0,1836.6,N,Yes
+6849,Miami,Middle,Female,15.0,0.0,2.0,273.0,Y,Yes
+6851,Miami,Upper,Male,45.0,0.0,0.0,185.9,N,Yes
+6853,Ft. Lauderdale,Upper,Male,71.0,0.0,0.0,346.5,N,No
+6855,Miami,Middle,Male,21.0,0.0,0.0,514.5,N,No
+6857,Miami,Lower,Female,28.0,1.0,1.0,100.8,N,No
+6858,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+6861,Ft. Lauderdale,Upper,Female,58.0,0.0,0.0,1025.6,N,Yes
+6879,Miami,Middle,Female,45.0,1.0,1.0,183.8,N,Yes
+6885,Miami,Middle,Female,29.0,1.0,0.0,182.0,N,No
+6888,Miami,Lower,Male,32.0,0.0,0.0,395.5,N,Yes
+6890,Miami,Lower,Male,40.0,0.0,0.0,55.3,N,No
+6892,Miami,Lower,Male,26.0,1.0,2.0,144.0,N,No
+6894,Miami,Lower,Male,39.0,0.0,0.0,169.1,N,No
+6905,Miami,Lower,Female,,0.0,4.0,178.3,N,No
+6909,Ft. Lauderdale,Lower,Male,,1.0,0.0,101.2,N,No
+6911,Ft. Lauderdale,Upper,Female,,0.0,0.0,194.0,N,Yes
+6913,Miami,Lower,Male,25.0,0.0,0.0,49.4,N,No
+6916,Miami,Upper,Female,,0.0,0.0,221.8,N,Yes
+6917,Miami,Middle,Male,32.0,0.0,0.0,73.5,N,No
+6930,Miami,Lower,Male,32.0,0.0,0.0,55.3,N,No
+6931,Miami,Lower,Male,20.0,0.0,0.0,49.4,N,No
+6933,Miami,Lower,Female,10.0,0.0,2.0,169.1,Y,No
+6941,Miami,Middle,Male,54.0,0.0,0.0,182.0,N,No
+6948,Miami,Upper,Male,30.0,0.0,0.0,182.0,N,No
+6963,Miami,Lower,Male,,8.0,2.0,486.9,N,No
+6965,Miami,Lower,Male,50.0,0.0,0.0,56.4,N,No
+6981,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+6985,Miami,Lower,Female,18.0,0.0,0.0,56.4,N,Yes
+7002,Miami,Lower,Male,19.0,0.0,0.0,57.1,N,No
+7015,Miami,Upper,Male,31.0,0.0,0.0,353.5,N,No
+7017,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+7030,Miami,Lower,Male,9.0,0.0,1.0,22.2,Y,Yes
+7031,Miami,Upper,Female,29.0,0.0,0.0,1552.5,N,Yes
+7053,Miami,Lower,Male,47.0,0.0,0.0,63.0,N,No
+7066,Miami,Lower,Male,35.0,0.0,0.0,55.3,N,No
+7067,Ft. Lauderdale,Middle,Male,25.0,1.0,2.0,291.1,N,No
+7088,Miami,Lower,Male,44.0,0.0,0.0,56.4,N,No
+7095,Miami,Middle,Female,29.0,0.0,2.0,161.0,N,Yes
+7102,Ft. Lauderdale,Lower,Female,9.0,1.0,1.0,106.7,Y,No
+7113,Ft. Lauderdale,Upper,Male,54.0,1.0,0.0,388.1,N,Yes
+7123,Jacksonville,Lower,Male,8.0,4.0,1.0,203.9,Y,No
+7131,Miami,Upper,Female,39.0,0.0,0.0,1479.4,N,Yes
+7140,Jacksonville,Lower,Female,18.0,0.0,0.0,47.3,N,No
+7141,Miami,Lower,Male,,0.0,0.0,55.2,N,No
+7146,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+7149,Ft. Lauderdale,Upper,Male,24.0,0.0,0.0,554.4,N,No
+7150,Miami,Lower,Female,27.0,0.0,0.0,55.5,N,Yes
+7151,Miami,Lower,Male,,0.0,0.0,49.4,N,No
+7153,Jacksonville,Lower,Male,,1.0,0.0,108.5,N,No
+7155,Miami,Lower,Male,25.0,1.0,0.0,54.4,N,Yes
+7158,Ft. Lauderdale,Lower,Male,0.4,0.0,1.0,59.6,Y,Yes
+7162,Ft. Lauderdale,Upper,Female,43.0,1.0,0.0,388.1,N,Yes
+7190,Jacksonville,Lower,Female,,1.0,0.0,108.5,N,No
+7192,Miami,Lower,Male,24.5,0.0,0.0,56.4,N,No
+7208,Miami,Lower,Male,16.0,4.0,1.0,277.8,Y,No
+7209,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+7220,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+7221,Miami,Lower,Male,28.0,0.0,0.0,54.6,N,No
+7230,Ft. Lauderdale,Upper,Female,36.0,0.0,0.0,949.4,N,Yes
+7244,Ft. Lauderdale,Upper,Male,50.0,1.0,0.0,745.0,N,No
+7255,Miami,Middle,Female,17.0,0.0,0.0,73.5,N,Yes
+7258,Miami,Middle,Male,26.0,0.0,0.0,91.0,N,No
+7265,Jacksonville,Lower,Female,,0.0,0.0,54.2,N,Yes
+7267,Miami,Lower,Female,,8.0,2.0,486.9,N,No
+7269,Miami,Lower,Male,,0.0,0.0,61.0,N,No
+7275,Miami,Upper,Male,,0.0,0.0,182.0,N,No
+7279,Miami,Upper,Female,22.0,0.0,1.0,385.0,N,Yes
+7281,Ft. Lauderdale,Upper,Male,58.0,0.0,2.0,792.9,N,No
+7284,Miami,Middle,Female,50.0,0.0,0.0,73.5,N,Yes
+7291,Miami,Lower,Female,43.0,1.0,6.0,328.3,N,No
+7296,Miami,Lower,Male,16.0,0.0,0.0,66.5,Y,No
+7315,Miami,Lower,Male,26.0,0.0,0.0,54.4,N,No
+7344,Miami,Middle,Male,41.0,0.0,0.0,91.0,N,No
+7357,Miami,Lower,Male,44.0,0.0,0.0,55.5,N,Yes
+7362,Ft. Lauderdale,Lower,Female,17.0,0.0,0.0,101.2,N,No
+7371,Miami,Lower,Male,26.0,1.0,0.0,55.0,N,No
+7382,Ft. Lauderdale,Lower,Male,27.0,1.0,0.0,101.2,N,No
+7383,Miami,Middle,Male,23.0,0.0,0.0,91.0,N,No
+7388,Miami,Upper,Male,64.0,1.0,4.0,1841.0,N,No
+7390,Miami,Middle,Female,28.0,0.0,0.0,91.0,N,Yes
+7392,Miami,Middle,Male,26.0,1.0,1.0,203.0,N,Yes
+7393,Miami,Lower,Male,32.0,0.0,0.0,55.0,N,Yes
+7401,Ft. Lauderdale,Upper,Male,27.0,1.0,0.0,957.5,N,No
+7403,Miami,Middle,Male,34.0,1.0,0.0,147.0,N,No
+7405,Miami,Lower,Male,19.0,0.0,0.0,55.3,N,No
+7408,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+7419,Miami,Lower,Male,33.0,0.0,0.0,54.4,N,No
+7422,Miami,Lower,Female,36.0,0.0,2.0,111.3,N,Yes
+7434,Miami,Lower,Male,30.0,1.0,0.0,112.7,N,No
+7440,Miami,Lower,Male,23.0,0.0,0.0,49.4,N,No
+7450,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+7484,Miami,Middle,Male,37.0,1.0,0.0,182.0,N,No
+7496,Miami,Lower,Male,,0.0,0.0,60.6,N,No
+7509,Miami,Middle,Female,26.0,0.0,0.0,94.5,N,Yes
+7515,Miami,Lower,Male,27.0,0.0,0.0,55.3,N,No
+7524,Ft. Lauderdale,Lower,Female,,1.0,0.0,101.2,N,No
+7529,Miami,Lower,Male,,1.0,1.0,101.5,N,No
+7536,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+7540,Miami,Lower,Male,24.0,0.0,0.0,60.6,N,No
+7550,Miami,Middle,Male,23.0,0.0,0.0,91.0,N,No
+7554,Ft. Lauderdale,Upper,Male,31.0,0.0,0.0,199.8,N,Yes
+7563,Miami,Lower,Male,23.0,0.0,0.0,64.6,N,No
+7581,Miami,Lower,Male,40.5,0.0,2.0,101.5,N,No
+7582,Miami,Middle,Female,24.0,0.0,0.0,91.0,N,Yes
+7593,Miami,Lower,Female,17.0,0.0,1.0,112.7,N,Yes
+7606,Ft. Lauderdale,Middle,Female,3.0,1.0,2.0,291.1,Y,Yes
+7618,Miami,Upper,Male,,0.0,0.0,0.0,N,No
+7628,Miami,Upper,Male,24.0,1.0,0.0,575.9,N,Yes
+7629,Ft. Lauderdale,Upper,Male,36.0,0.0,0.0,526.7,N,No
+7632,Miami,Lower,Male,4.0,1.0,1.0,77.9,Y,Yes
+7633,Miami,Lower,Male,,0.0,0.0,52.9,N,No
+7639,Ft. Lauderdale,Upper,Male,46.0,0.0,0.0,554.4,N,No
+7646,Miami,Lower,Male,43.0,0.0,0.0,55.3,N,No
+7648,Jacksonville,Lower,Male,,0.0,0.0,55.2,N,No
+7649,Miami,Lower,Male,30.0,0.0,0.0,56.4,N,No
+7653,Miami,Lower,Male,21.0,0.0,0.0,55.3,N,No
+7655,Miami,Lower,Male,18.0,2.0,2.0,240.6,N,No
+7670,Ft. Lauderdale,Lower,Male,29.0,0.0,0.0,55.3,N,Yes
+7680,Ft. Lauderdale,Upper,Female,48.0,1.0,0.0,745.0,N,Yes
+7683,Miami,Lower,Female,21.0,0.0,0.0,60.6,N,No
+7717,Miami,Lower,Male,,1.0,0.0,139.8,N,No
+7724,Miami,Middle,Male,8.0,0.0,2.0,227.5,Y,Yes
+7733,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+7737,Miami,Upper,Male,49.0,0.0,0.0,0.0,N,Yes
+7750,Ft. Lauderdale,Upper,Male,49.0,1.0,0.0,623.7,N,Yes
+7764,Miami,Upper,Female,22.0,0.0,0.0,1060.9,N,Yes
+7767,Miami,Lower,Male,21.0,0.0,0.0,55.5,N,No
+7802,Miami,Lower,Male,51.0,0.0,0.0,56.4,N,No
+7804,Miami,Lower,Male,39.0,0.0,0.0,55.5,N,No
+7813,Miami,Middle,Female,2.0,1.0,1.0,182.0,Y,Yes
+7820,Miami,Middle,Female,6.0,0.0,1.0,231.0,Y,Yes
+7835,Miami,Upper,Male,39.0,0.0,0.0,0.0,N,No
+7846,Miami,Middle,Male,3.0,1.0,1.0,182.0,Y,Yes
+7861,Miami,Lower,Male,19.0,0.0,0.0,55.3,N,No
+7862,Ft. Lauderdale,Upper,Female,48.0,1.0,0.0,277.2,N,Yes
+7879,Miami,Lower,Male,21.0,0.0,0.0,50.8,N,No
+7882,Miami,Lower,Male,44.0,0.0,1.0,112.7,N,No
+7898,Miami,Middle,Male,32.0,1.0,0.0,182.0,N,Yes
+7914,Miami,Middle,Male,34.0,0.0,0.0,91.0,N,Yes
+7915,Ft. Lauderdale,Lower,Male,20.0,0.0,0.0,28.1,N,No
+7927,Ft. Lauderdale,Upper,Female,27.0,1.0,1.0,1732.6,N,Yes
+7942,Jacksonville,Lower,Female,,0.0,0.0,55.2,N,Yes
+7957,Miami,Middle,Male,34.0,1.0,0.0,147.0,N,No
+7973,Miami,Upper,Female,38.0,0.0,0.0,560.0,N,Yes
+7977,Miami,Lower,Male,30.0,0.0,0.0,55.3,N,No
+7983,Ft. Lauderdale,Upper,Male,28.5,0.0,0.0,194.0,N,No
+7991,Jacksonville,Lower,Female,,0.0,0.0,54.5,N,Yes
+8001,Miami,Lower,Male,35.0,0.0,0.0,56.4,N,No
+8009,Miami,Middle,Male,47.0,0.0,0.0,73.5,N,No
+8019,Miami,Lower,Female,31.0,0.0,0.0,55.0,N,No
+8021,Miami,Lower,Male,25.0,0.0,0.0,55.3,N,No
+8026,Miami,Upper,Female,16.0,0.0,1.0,275.8,Y,Yes
+8029,Miami,Lower,Male,17.0,1.0,0.0,49.4,N,No
+8036,Miami,Lower,Male,,1.0,2.0,164.2,N,No
+8054,Miami,Lower,Female,3.0,3.0,1.0,147.5,Y,No
+8060,Miami,Middle,Male,66.0,0.0,0.0,73.5,N,No
+8062,Miami,Lower,Male,22.0,0.0,0.0,50.8,N,No
+8077,Ft. Lauderdale,Upper,Female,55.0,0.0,0.0,949.4,N,Yes
+8078,Miami,Middle,Male,23.0,0.0,0.0,73.5,N,No
+8080,Miami,Upper,Female,60.0,1.0,4.0,1841.0,N,Yes
+8082,Miami,Upper,Male,45.0,1.0,0.0,584.3,N,No
+8087,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+8088,Miami,Lower,Male,,0.0,0.0,395.5,N,Yes
+8098,Miami,Middle,Male,30.0,1.0,0.0,147.0,N,No
+8109,Miami,Upper,Male,,0.0,0.0,296.8,N,No
+8116,Miami,Upper,Male,48.0,1.0,0.0,364.0,N,Yes
+8118,Miami,Lower,Male,,0.0,0.0,52.9,N,No
+8120,Miami,Lower,Male,13.0,4.0,2.0,219.7,Y,No
+8126,Miami,Middle,Male,25.0,0.0,0.0,73.5,N,No
+8141,Jacksonville,Lower,Female,,0.0,2.0,54.3,N,No
+8144,Miami,Middle,Male,18.0,0.0,0.0,514.5,N,No
+8146,Miami,Lower,Male,0.3,0.0,2.0,100.8,Y,No
+8157,Miami,Middle,Male,57.0,0.0,0.0,91.0,N,No
+8158,Miami,Lower,Male,24.0,0.0,0.0,55.3,N,No
+8159,Miami,Upper,Male,62.0,0.0,0.0,185.9,N,No
+8168,Jacksonville,Lower,Male,40.5,0.0,0.0,54.3,N,No
+8184,Ft. Lauderdale,Upper,Male,37.0,0.0,1.0,207.9,N,No
+8188,Miami,Lower,Male,30.0,0.0,0.0,50.8,N,No
+8193,Miami,Lower,Male,28.0,0.0,0.0,66.5,N,No
+8211,Jacksonville,Lower,Male,,0.0,0.0,48.0,N,No
+8233,Miami,Middle,Female,50.0,0.0,1.0,182.0,N,Yes
+8236,Miami,Upper,Female,52.0,1.0,1.0,654.5,N,Yes
+8246,Miami,Middle,Female,,0.0,0.0,147.0,N,No
+8251,Miami,Middle,Male,50.0,1.0,0.0,182.0,N,No
+8256,Miami,Middle,Male,21.0,1.0,0.0,80.5,N,No
+8261,Ft. Lauderdale,Upper,Male,13.0,2.0,2.0,1836.6,Y,Yes
+8264,Miami,Lower,Female,45.0,1.0,4.0,195.3,N,No
+8265,Ft. Lauderdale,Upper,Female,45.0,0.0,1.0,443.5,N,Yes
+8280,Miami,Middle,Female,27.0,0.0,0.0,73.5,N,Yes
+8282,Miami,Lower,Female,22.0,1.0,1.0,86.0,N,Yes
+8284,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+8286,Miami,Lower,Male,45.0,0.0,0.0,56.4,N,Yes
+8302,Ft. Lauderdale,Lower,Male,12.0,1.0,0.0,78.7,Y,Yes
+8314,Miami,Lower,Female,4.0,1.0,1.0,116.9,Y,Yes
+8320,Miami,Upper,Male,35.0,0.0,0.0,184.0,N,Yes
+8322,Miami,Middle,Female,29.0,1.0,0.0,182.0,N,Yes
+8325,Ft. Lauderdale,Lower,Male,17.0,1.0,1.0,50.6,N,No
+8327,Miami,Lower,Male,47.0,0.0,0.0,50.8,N,No
+8328,Jacksonville,Lower,Female,19.0,0.0,0.0,55.2,N,Yes
+8335,Jacksonville,Lower,Male,,1.0,0.0,54.3,N,No
+8336,Miami,Lower,Female,,0.0,0.0,56.8,N,No
+8354,Ft. Lauderdale,Lower,Male,,1.0,0.0,101.2,N,No
+8370,Miami,Lower,Male,40.5,0.0,0.0,105.7,N,No
+8372,Jacksonville,Lower,Female,30.5,0.0,0.0,54.3,N,No
+8381,Miami,Upper,Male,41.0,1.0,0.0,363.0,N,No
+8385,Miami,Lower,Male,18.0,0.0,0.0,54.3,N,No
+8387,Miami,Upper,Female,40.0,0.0,0.0,1074.2,N,Yes
+8388,Miami,Middle,Female,29.0,1.0,0.0,182.0,N,Yes
+8396,Miami,Middle,Female,29.0,0.0,0.0,73.5,N,Yes
+8397,Miami,Lower,Male,26.0,0.0,0.0,56.4,N,No
+8398,Miami,Middle,Male,2.0,1.0,1.0,161.0,Y,Yes
+8408,Miami,Lower,Male,16.0,0.0,0.0,56.4,Y,No
+8409,Miami,Lower,Male,1.0,4.0,1.0,277.8,Y,No
+8411,Miami,Lower,Male,34.0,0.0,0.0,56.4,N,No
+8416,Miami,Lower,Male,21.0,0.0,0.0,54.4,N,Yes
+8439,Ft. Lauderdale,Upper,Male,,0.0,0.0,214.9,N,No
+8450,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+8454,Ft. Lauderdale,Upper,Female,18.0,1.0,0.0,1592.7,N,Yes
+8459,Jacksonville,Lower,Male,,0.0,0.0,54.1,N,No
+8477,Miami,Upper,Male,67.0,1.0,0.0,1552.5,N,No
+8489,Jacksonville,Lower,Male,10.0,4.0,1.0,203.9,Y,No
+8491,Miami,Upper,Male,41.0,0.0,0.0,213.5,N,No
+8493,Miami,Lower,Male,31.0,0.0,0.0,55.5,N,Yes
+8495,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+8504,Miami,Middle,Male,19.0,0.0,0.0,73.5,N,No
+8508,Miami,Lower,Female,20.0,0.0,0.0,60.6,N,No
+8517,Miami,Lower,Female,28.0,0.0,0.0,55.3,N,No
+8518,Miami,Upper,Female,,0.0,1.0,385.0,N,Yes
+8520,Miami,Lower,Male,3.0,4.0,2.0,219.7,Y,Yes
+8525,Miami,Lower,Male,4.0,3.0,2.0,195.3,Y,No
+8528,Ft. Lauderdale,Upper,Female,36.0,0.0,0.0,1836.6,N,Yes
+8556,Miami,Lower,Male,,0.0,0.0,56.8,N,Yes
+8559,Miami,Lower,Female,26.0,0.0,2.0,96.4,N,No
+8595,Miami,Lower,Male,24.0,0.0,0.0,56.4,N,No
+8600,Miami,Upper,Male,49.0,0.0,0.0,182.0,N,No
+8603,Miami,Lower,Female,27.0,0.0,2.0,77.9,N,Yes
+8612,Miami,Lower,Male,38.5,0.0,0.0,50.8,N,No
+8615,Miami,Middle,Male,,0.0,0.0,0.0,N,No
+8626,Miami,Lower,Male,,0.0,0.0,53.0,N,No
+8641,Ft. Lauderdale,Lower,Male,,1.0,1.0,156.5,N,Yes
+8645,Miami,Upper,Female,18.0,1.0,0.0,420.0,N,Yes
+8647,Jacksonville,Lower,Male,,0.0,0.0,48.7,N,No
+8660,Miami,Upper,Female,51.0,0.0,1.0,275.8,N,Yes
+8662,Miami,Lower,Female,18.0,1.0,0.0,124.6,N,No
+8664,Miami,Middle,Female,21.0,0.0,0.0,73.5,N,Yes
+8679,Miami,Lower,Male,19.0,0.0,0.0,55.3,N,No
+8688,Ft. Lauderdale,Lower,Male,45.5,0.0,0.0,50.6,N,No
+8693,Miami,Lower,Female,18.0,0.0,0.0,68.9,N,Yes
+8706,Miami,Upper,Female,,1.0,0.0,935.6,N,Yes
+8715,Ft. Lauderdale,Upper,Female,24.0,0.0,0.0,485.1,N,Yes
+8716,Miami,Lower,Female,11.0,4.0,2.0,218.9,Y,No
+8722,Jacksonville,Lower,Female,,0.0,0.0,54.5,N,Yes
+8723,Ft. Lauderdale,Upper,Female,49.0,1.0,0.0,537.1,N,Yes
+8724,Miami,Lower,Male,,0.0,0.0,50.8,N,No
+8730,Miami,Lower,Male,29.0,0.0,0.0,55.1,N,No
+8736,Jacksonville,Lower,Male,4.0,4.0,1.0,203.9,Y,No
+8746,Miami,Lower,Male,19.0,0.0,0.0,54.4,N,No
+8757,Jacksonville,Lower,Female,,0.0,0.0,108.5,N,Yes
+8765,Miami,Lower,Female,5.0,4.0,2.0,219.7,Y,Yes
+8781,Ft. Lauderdale,Upper,Male,,0.0,0.0,194.0,N,No
+8783,Miami,Lower,Female,18.0,0.0,0.0,54.4,N,No
+8811,Ft. Lauderdale,Upper,Female,60.0,1.0,0.0,526.8,N,Yes
+8835,Miami,Lower,Male,,0.0,0.0,55.3,N,No
+8842,Miami,Lower,Female,26.0,1.0,1.0,154.2,N,Yes
+8845,Miami,Upper,Male,,0.0,0.0,185.9,N,No
+8856,Miami,Lower,Male,20.0,0.0,0.0,55.5,N,Yes
+8857,Miami,Lower,Female,26.0,1.0,0.0,112.7,N,No
+8867,Miami,Lower,Male,,8.0,2.0,486.9,N,No
+8872,Ft. Lauderdale,Lower,Male,,1.0,0.0,45.1,N,No
+8875,Jacksonville,Lower,Female,,0.0,0.0,55.2,N,No
+8879,Miami,Upper,Male,27.0,0.0,0.0,213.5,N,Yes
+8881,Miami,Lower,Male,24.0,0.0,0.0,54.4,N,No
+8882,Ft. Lauderdale,Upper,Male,26.0,0.0,0.0,210.0,N,Yes
+8884,Miami,Lower,Male,28.0,0.0,0.0,395.5,N,No
+8893,Ft. Lauderdale,Upper,Female,22.0,0.0,1.0,433.9,N,Yes
+8895,Miami,Lower,Female,5.0,0.0,0.0,87.3,Y,Yes
+8904,Miami,Middle,Male,28.0,0.0,0.0,73.5,N,No
+8912,Miami,Lower,Male,28.0,0.0,0.0,50.8,N,No
+8936,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+8940,Jacksonville,Lower,Female,,1.0,0.0,108.5,N,Yes
+8943,Miami,Lower,Male,29.0,0.0,0.0,54.4,N,No
+8964,Miami,Lower,Female,18.0,0.0,0.0,54.4,N,Yes
+8968,Miami,Lower,Female,9.0,3.0,2.0,195.3,Y,No
+8971,Miami,Lower,Male,40.0,1.0,6.0,328.3,N,No
+8992,Miami,Lower,Male,,1.0,9.0,486.9,N,No
+8996,Miami,Lower,Female,24.0,0.0,2.0,116.9,N,Yes
+8999,Miami,Lower,Male,,0.0,0.0,52.9,N,No
+9012,Miami,Lower,Male,39.0,1.0,5.0,218.9,N,No
+9043,Miami,Lower,Female,19.0,1.0,0.0,55.0,N,Yes
+9056,Miami,Middle,Male,25.0,0.0,0.0,73.5,N,No
+9058,Miami,Lower,Male,36.0,0.0,0.0,66.5,N,No
+9062,Miami,Lower,Female,,1.0,0.0,112.7,N,Yes
+9064,Ft. Lauderdale,Upper,Female,,1.0,0.0,575.2,N,Yes
+9079,Miami,Middle,Female,26.0,1.0,1.0,182.0,N,No
+9091,Miami,Middle,Male,63.0,1.0,0.0,182.0,N,No
+9096,Miami,Lower,Male,19.0,0.0,0.0,0.0,N,No
+9102,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+9112,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+9115,Miami,Middle,Male,34.0,0.0,0.0,91.0,N,No
+9120,Jacksonville,Lower,Male,,0.0,0.0,108.5,N,No
+9131,Ft. Lauderdale,Lower,Male,7.0,1.0,1.0,106.7,Y,Yes
+9143,Miami,Lower,Male,21.0,0.0,0.0,55.5,N,No
+9147,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+9152,Miami,Middle,Female,35.0,0.0,0.0,147.0,N,Yes
+9167,Ft. Lauderdale,Lower,Female,,0.0,0.0,50.6,N,Yes
+9168,Ft. Lauderdale,Upper,Female,30.0,0.0,0.0,745.0,N,Yes
+9172,Miami,Lower,Female,2.0,0.0,1.0,86.0,Y,Yes
+9181,Miami,Middle,Male,14.0,0.0,0.0,455.0,Y,No
+9182,Miami,Middle,Male,31.0,0.0,0.0,73.5,N,No
+9184,Jacksonville,Lower,Female,30.0,0.0,0.0,53.4,N,No
+9186,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,No
+9188,Ft. Lauderdale,Upper,Male,58.0,0.0,0.0,207.9,N,No
+9193,Miami,Lower,Male,18.0,0.0,0.0,56.4,N,Yes
+9198,Miami,Middle,Male,24.0,2.0,0.0,220.5,N,No
+9220,Ft. Lauderdale,Middle,Male,30.0,1.0,0.0,168.0,N,No
+9226,Miami,Lower,Male,32.0,0.0,0.0,54.4,N,Yes
+9227,Miami,Middle,Male,52.0,0.0,0.0,94.5,N,No
+9244,Miami,Lower,Male,18.0,0.0,0.0,54.3,N,No
+9249,Ft. Lauderdale,Upper,Male,60.0,1.0,1.0,554.4,N,Yes
+9251,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+9253,Jacksonville,Lower,Female,,2.0,0.0,162.8,N,Yes
+9257,Jacksonville,Lower,Male,,0.0,0.0,54.3,N,No
+9262,Miami,Upper,Male,50.0,1.0,0.0,391.3,N,No
+9270,Miami,Upper,Male,,0.0,0.0,0.0,N,No
+9276,Jacksonville,Lower,Female,,0.0,0.0,55.2,N,Yes
+9279,Miami,Lower,Female,22.0,0.0,0.0,277.8,N,No
+9282,Ft. Lauderdale,Lower,Male,26.0,1.0,0.0,101.2,N,No
+9289,Miami,Lower,Male,21.0,2.0,0.0,169.1,N,No
+9291,Miami,Upper,Male,27.0,1.0,0.0,371.7,N,Yes
+9293,Jacksonville,Middle,Male,61.0,0.0,0.0,86.5,N,No
+9321,Miami,Lower,Male,30.5,0.0,0.0,56.4,N,No
+9336,Miami,Lower,Male,,0.0,0.0,51.2,N,No
+9337,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,No
+9338,Miami,Lower,Male,21.0,0.0,0.0,60.6,N,No
+9343,Miami,Lower,Male,21.0,0.0,0.0,55.0,N,No
+9348,Miami,Lower,Male,25.0,0.0,0.0,53.6,N,No
+9354,Miami,Upper,Male,37.0,1.0,1.0,367.9,N,Yes
+9358,Miami,Middle,Male,16.0,0.0,0.0,73.5,Y,No
+9371,Miami,Middle,Male,51.0,0.0,0.0,87.7,N,No
+9382,Jacksonville,Lower,Male,31.0,0.0,0.0,54.1,N,No
+9395,Ft. Lauderdale,Upper,Female,35.0,0.0,0.0,1480.5,N,Yes
+9399,Ft. Lauderdale,Upper,Male,39.0,0.0,0.0,207.9,N,No
+9411,Miami,Lower,Male,27.0,0.0,0.0,60.6,N,No
+9413,Miami,Middle,Female,32.5,0.0,0.0,91.0,N,Yes
+9414,Miami,Middle,Female,45.0,0.0,2.0,210.0,N,Yes
+9418,Miami,Middle,Male,27.0,0.0,0.0,182.0,N,No
+9421,Miami,Middle,Female,22.0,1.0,1.0,203.0,N,Yes
+9426,Miami,Lower,Female,2.0,3.0,2.0,195.3,Y,No
+9427,Miami,Middle,Male,32.0,2.0,0.0,514.5,N,No
+9428,Miami,Middle,Male,42.0,0.0,0.0,91.0,N,No
+9433,Ft. Lauderdale,Upper,Female,38.0,1.0,0.0,499.0,N,Yes
+9434,Ft. Lauderdale,Middle,Male,29.0,0.0,0.0,97.0,N,Yes
+9483,Miami,Middle,Male,21.0,0.0,0.0,80.5,N,No
+9496,Ft. Lauderdale,Upper,Male,37.0,1.0,1.0,582.1,N,No
+9520,Miami,Lower,Male,4.0,4.0,2.0,218.9,Y,No
+9523,Miami,Lower,Male,16.0,0.0,0.0,56.4,Y,Yes
+9532,Miami,Lower,Female,33.0,3.0,0.0,111.0,N,Yes
+9537,Ft. Lauderdale,Lower,Male,,0.0,0.0,55.3,N,No
+9539,Miami,Lower,Male,14.0,0.0,0.0,64.6,Y,Yes
+9545,Miami,Upper,Male,,0.0,0.0,185.9,N,No
+9547,Ft. Lauderdale,Upper,Female,39.0,0.0,0.0,762.3,N,Yes
+9562,Miami,Upper,Female,30.0,0.0,0.0,605.5,N,Yes
+9567,Miami,Middle,Male,27.0,1.0,0.0,182.0,N,No
+9568,Miami,Lower,Male,22.0,0.0,0.0,54.6,N,No
+9570,Miami,Lower,Male,42.0,0.0,0.0,52.9,N,No
+9573,Miami,Lower,Female,31.0,0.0,0.0,60.8,N,Yes
+9581,Miami,Lower,Female,,8.0,2.0,486.9,N,No
+9582,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+9588,Miami,Lower,Male,22.0,0.0,0.0,52.6,N,No
+9590,Miami,Lower,Male,21.0,0.0,0.0,56.4,N,No
+9591,Miami,Middle,Female,18.0,0.0,1.0,161.0,N,Yes
+9600,Miami,Lower,Male,50.0,1.0,0.0,101.5,N,No
+9615,Miami,Lower,Male,,0.0,0.0,101.5,N,No
+9618,Miami,Lower,Male,,0.0,0.0,66.5,N,No
+9621,Miami,Lower,Female,,1.0,2.0,164.2,N,No
+9625,Miami,Middle,Female,34.0,1.0,1.0,227.5,N,Yes
+9626,Ft. Lauderdale,Upper,Male,,0.0,0.0,180.2,N,Yes
+9652,Miami,Lower,Male,26.0,0.0,0.0,395.5,N,Yes
+9655,Ft. Lauderdale,Upper,Male,27.0,0.0,2.0,1480.5,N,No
+9663,Miami,Middle,Female,13.0,0.0,1.0,136.5,Y,Yes
+9674,Ft. Lauderdale,Upper,Female,32.0,0.0,0.0,534.0,N,Yes
+9676,Miami,Middle,Female,34.0,0.0,1.0,161.0,N,Yes
+9677,Ft. Lauderdale,Lower,Male,,0.0,0.0,50.6,N,No
+9691,Ft. Lauderdale,Upper,Female,45.0,0.0,0.0,1836.6,N,Yes
+9696,Miami,Middle,Female,27.0,1.0,0.0,147.0,N,No
+9709,Miami,Lower,Male,22.0,0.0,0.0,54.4,N,No
+9711,Ft. Lauderdale,Lower,Male,22.0,0.0,0.0,50.6,N,Yes
+9734,Jacksonville,Lower,Female,,2.0,0.0,162.8,N,Yes
+9742,Miami,Lower,Male,40.0,1.0,4.0,195.3,N,No
+9752,Miami,Upper,Female,39.0,1.0,0.0,391.3,N,Yes
+9766,Miami,Lower,Female,8.0,3.0,1.0,147.5,Y,No
+9768,Miami,Lower,Male,20.0,0.0,0.0,64.6,N,No
+9770,Miami,Middle,Male,40.0,1.0,0.0,182.0,N,No
+9807,Miami,Lower,Male,2.0,4.0,1.0,277.8,Y,No
+9811,Miami,Lower,Male,21.0,0.0,0.0,112.7,N,No
+9817,Miami,Middle,Male,21.0,0.0,0.0,91.0,N,No
+9839,Miami,Lower,Female,30.0,0.0,0.0,87.3,N,Yes
+9843,Jacksonville,Lower,Female,,0.0,0.0,54.3,N,Yes
+9849,Ft. Lauderdale,Lower,Male,18.5,0.0,0.0,50.6,N,No
+9852,Miami,Lower,Male,,0.0,0.0,56.4,N,No
+9876,Miami,Middle,Female,18.0,0.0,2.0,91.0,N,Yes
+9879,Ft. Lauderdale,Upper,Male,28.0,1.0,0.0,575.2,N,No
+9894,Miami,Lower,Male,29.0,0.0,0.0,56.4,N,No
+9906,Miami,Upper,Female,21.0,0.0,0.0,185.9,N,Yes
+9922,Ft. Lauderdale,Upper,Male,24.0,0.0,1.0,1732.6,N,No
+9923,Miami,Middle,Female,31.0,1.0,1.0,183.8,N,Yes
+9924,Ft. Lauderdale,Upper,Male,56.0,0.0,0.0,248.5,N,Yes
+9939,Ft. Lauderdale,Upper,Female,23.0,0.0,1.0,582.1,N,Yes
+9940,Ft. Lauderdale,Upper,Male,46.0,0.0,0.0,526.7,N,No
+9941,Miami,Middle,Male,25.0,1.0,0.0,182.0,N,No
+9951,Miami,Upper,Female,23.0,3.0,2.0,1841.0,N,Yes
+9954,Ft. Lauderdale,Lower,Female,,1.0,0.0,101.2,N,No
+9959,Miami,Lower,Female,37.0,0.0,0.0,67.1,N,No
+9962,Miami,Middle,Male,21.0,1.0,0.0,80.5,N,No
+9966,Miami,Upper,Male,38.0,1.0,0.0,630.0,N,Yes
+9977,Miami,Lower,Female,3.0,1.0,1.0,96.4,Y,No
+9980,Miami,Lower,Male,,0.0,0.0,54.4,N,No
+9993,Miami,Lower,Male,21.0,0.0,0.0,56.4,N,No
+9994,Miami,Lower,Male,2.0,3.0,1.0,147.5,Y,No
